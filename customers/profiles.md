@@ -2,3 +2,5 @@
 
 - Rafael Licona — sub (finishing carpentry) — strong [AFFILIATED: Trim Design By N&R is Eric's own business; does NOT count toward the non-affiliated 3-customer gate]
 - Moisés Pacheco — other (multi-trade contractor, Pacheco Power Services) — disconfirming [NON-affiliated, met at Lowe's; contradicts Hyp. A — satisfied with his own deposit/contract/callback-fee workarounds, says he doesn't lose money, not interested in software]
+- Trevor Garrett — GC (Cobalt Ventures, ~30 homes/yr Nashville builder) — weak [NON-affiliated; OUTSIDE Hyp. A & B2 — downplays permit/zoning delays, risk-off GC-fee model avoids B2's rehab risk; #1 headache is wholesaler land-acquisition markup, a new out-of-scope problem]
+- Kelsie Kinsley — other (loan consultant, Longhorn Investments, hard-money rehab loans) — weak [NON-affiliated but OUTSIDE target population (lender, not operator); pitch was end-of-call so answers clean; mild DISCONFIRMING for B2 — condition/scope risk is 'nothing to do with the loan' (as-is+ARV appraisal absorbs it); her own flip experience NOT probed, so silent on operator-side rehab pain]
