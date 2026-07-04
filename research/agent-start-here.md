@@ -104,9 +104,13 @@ linkedin-scraper-mcp --transport streamable-http \
 Useful LinkedIn probes:
 
 ```bash
+mcporter call 'linkedin.search_jobs(keywords: "construction project manager", limit: 1)'
 mcporter call 'linkedin.search_jobs(keywords: "construction project manager")'
 mcporter call 'linkedin.search_people(keywords: "construction contractor")'
 ```
+
+If a probe returns `ECONNREFUSED 127.0.0.1:8000`, the LinkedIn MCP config exists but the local
+server is not running.
 
 ## Default Fable Run
 

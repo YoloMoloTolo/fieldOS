@@ -35,6 +35,16 @@ linkedin-scraper-mcp --transport streamable-http \
   --user-data-dir "/Users/ericlicona/.linkedin-mcp/felix-gato-brave-profile-2~"
 ```
 
+Then verify LinkedIn from another Terminal:
+
+```bash
+cd /Users/ericlicona/fieldos-brain
+mcporter call 'linkedin.search_jobs(keywords: "construction project manager", limit: 1)'
+```
+
+If this returns `ECONNREFUSED 127.0.0.1:8000`, the LinkedIn MCP server is not running yet, even if
+`agent-reach doctor` reports LinkedIn as an available channel.
+
 ## Paste This Into Claude Or Fable
 
 ```text
@@ -55,6 +65,7 @@ agent-reach doctor --json
 PATH=/opt/homebrew/bin:$PATH opencli doctor
 PATH=/opt/homebrew/bin:$PATH opencli profile list
 mcporter config list
+mcporter call 'linkedin.search_jobs(keywords: "construction project manager", limit: 1)'
 
 Create a run folder:
 research/runs/YYYY-MM-DD-fable-exhaustive-construction-sweep/

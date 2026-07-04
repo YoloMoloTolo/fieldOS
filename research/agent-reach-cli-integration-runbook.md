@@ -333,11 +333,14 @@ linkedin-scraper-mcp --transport streamable-http \
 Then probe:
 
 ```bash
+mcporter call 'linkedin.search_jobs(keywords: "construction project manager", limit: 1)'
 mcporter call 'linkedin.search_jobs(keywords: "construction project manager")'
 mcporter call 'linkedin.search_people(keywords: "construction contractor")'
 ```
 
 Important: the working LinkedIn user-data directory includes the trailing `~`.
+If a probe returns `ECONNREFUSED 127.0.0.1:8000`, the config exists but the LinkedIn MCP server is
+not running.
 
 Check `agent-reach doctor --json` for the active backend before relying on a command.
 
