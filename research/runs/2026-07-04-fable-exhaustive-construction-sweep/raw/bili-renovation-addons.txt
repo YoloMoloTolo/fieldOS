@@ -1,0 +1,40 @@
+ok: true
+schema_version: '1'
+data:
+- id: BV1AnAJzHE2h
+  bvid: BV1AnAJzHE2h
+  title: 装修报价中的这22个增项套路千万要避开！随便一项就能坑咱们几千，2026年要装修的朋友赶紧拿小本本记好，不然开工了防不胜防！
+  author: 装修界小天使
+  play: 5784
+  duration: '7:4'
+- id: BV1F4QfBhEwH
+  bvid: BV1F4QfBhEwH
+  title: 亲身经历，细数装修路上的增项
+  author: 波仔和鱼丸
+  play: 3290
+  duration: '10:40'
+- id: ''
+  bvid: ''
+  title: 【装修小白避坑指南更新版】（送300页资料）
+  author: 装修徐叨叨_
+  play: 36013
+  duration: ''
+- id: BV1SiE76jEtM
+  bvid: BV1SiE76jEtM
+  title: 西安装修公司增项套路有哪些？
+  author: 西安装修大龙
+  play: 73
+  duration: '1:56'
+- id: BV1iNVh67Eib
+  bvid: BV1iNVh67Eib
+  title: 理发店都搞增项了？看懂套路就懂上海装修怎么选！
+  author: 阿粉还在干装修
+  play: 84
+  duration: '5:8'
+- id: BV1u39JY1EVC
+  bvid: BV1u39JY1EVC
+  title: 装修报价中的这22个增项套路千万要避开！随便一项就能坑咱们好几千，赶紧拿小本本儿记好，不然开工了防不胜防！
+  author: 装修界小天使
+  play: 5135
+  duration: '7:4'
+

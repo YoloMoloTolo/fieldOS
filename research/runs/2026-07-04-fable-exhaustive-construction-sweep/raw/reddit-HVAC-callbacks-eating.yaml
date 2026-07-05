@@ -1,0 +1,85 @@
+- id: wasdbo
+  title: Compressor overheating on new install
+  subreddit: r/HVAC
+  author: AnAlrightName
+  score: 3
+  comments: 21
+  url: https://www.reddit.com/r/HVAC/comments/wasdbo/compressor_overheating_on_new_install/
+  created_utc: 1659060763
+  selftext: >-
+    Installed a ICP/Carrier 2 ton HP a couple months ago.  Two days ago I get a callback and I found a fuse blown in the
+    fused disconnect.  Unit allows 30A breaker and my electrician and I missed that the disconnect was fused (not super
+    common on residential here) and I still had the old 25A fuses in there with a 30A breaker.  I swapped to the fuses
+    to 30A to match the breaker.  I chalked it up to the fuses were undersized, but even then I was sceptical this
+    wasn't the real issue.
+
+
+    Today I had another call back.  Unit blowing warm air, it's 80° inside he said.  By the time I made it there, it was
+    running fine... Either the homeowner is tripping, or it was off on thermal and now it's cooled and running. Two days
+    ago it must have pulled high amps and blew that 25A fuse.
+
+
+    Pressures 130/370, SH 15, SC 13, ambient 93°.  Compressor running 6.4A, fan 0.7A, cap is totally within spec at
+    34.2/5.1uF.  Fan spins freely, doesn't feel like the fan was too hot or has bad bearings.  I cycled the system
+    multiple times and never pulled high amps.  RLA on the compressor is 10.9, so 6-7 amps seems cool.
+
+
+    I popped the top to get my hand on the compressor... It's hot, can't keep my hand on it.  At this point I'm
+    convinced it was off on thermal but was running when I got there.  I can't figure why it was off on thermal.  I
+    didn't ohm it out, because I was late for dinner with the inlaws for the second night in a row.  I eat dinner but my
+    mind is occupied with this mystery.  I tell myself if it was running low ohms, it would have been running higher
+    amps.
+
+
+    What am I missing?
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: cd43lt
+  title: Anyone got any advice for removing non condensibles from r-22?
+  subreddit: r/HVAC
+  author: Whatachooch
+  score: 6
+  comments: 11
+  url: https://www.reddit.com/r/HVAC/comments/cd43lt/anyone_got_any_advice_for_removing_non/
+  created_utc: 1563117267
+  selftext: >-
+    I'm trying to avoid losing our ass on the expensive stuff since this would be a callback, and don't want to eat the
+    cost of virgin refrigerant.
+
+
+    Followed up on a system (among other issues on site over the weekend) that was recently repaired with a new txv by
+    another tech. Found very low pressure but not flat, and leak on the powerhead threads. Tightened up and confirmed no
+    longer leaking. Gassed up and ran with high head of about 350. Chemically cleaned condenser coil with coil gun
+    multiple times and it still ran with the same high head.
+
+
+    My assumption is that previous repair wasn't properly leak tested and wasn't evacuated using a micron gauge, so they
+    didn't realize they had a leak and were pulling in a bunch of non condensibles.
+
+
+    I've read up a bid and it seems that the general idea is to recover the whole charge and let it sit for a minimum of
+    4 hours. Then bleed off the vapor valve slowly, periodically checking the pressure against a pt chart. After that
+    charge from liquid valve slowly, stopping while you still have some liquid in the tank. Top off with virgin. I
+    figure it's possible to address any moisture by using a filter drier in line during recovery and maybe even
+    refilling. Obviously pull a good vacuum (with a micron gauge!) while waiting for tank to settle.
+
+
+    Sorry for the whole recap, just trying to nip any questions in the bud and use as a cautionary tale about why proper
+    procedure is important. 
+
+
+    Any feedback on whether this sounds right or advice on anything to change is highly appreciated.
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

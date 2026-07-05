@@ -1,0 +1,147 @@
+- id: 1m6y3il
+  title: 4-Year Career Gap After 4 Years of Experience. Feeling Stuck
+  subreddit: r/Architects
+  author: Vast-Bear-1846
+  score: 21
+  comments: 14
+  url: https://www.reddit.com/r/Architects/comments/1m6y3il/4year_career_gap_after_4_years_of_experience/
+  created_utc: 1753239455
+  selftext: >-
+    Hey everyone,
+
+
+    I’m looking for some advice on how to re-enter the field after a long break—and whether that’s even realistic.
+
+
+    I worked in architecture for 4 years at a small firm, mostly on high-end residential and some commercial projects. I
+    have one project I’m proud of where I was involved from schematic design through construction administration, and I
+    really took ownership of it under the principal architect’s guidance.
+
+
+    The rest of the projects were less complete—some stalled after the proposal phase, and one residential job was never
+    finished due to a conflict between the client and contractor, so we couldn’t even get photos.
+
+
+    Then came COVID. I burned out, stepped away, and haven’t worked full-time in the field for the last 4 years. I’ve
+    done some small freelance gigs—some creative, some adjacent to architecture—but nothing steady or portfolio-worthy.
+
+
+    Lately, I’ve been more drawn to interior design or interior architecture (which is actually my original background).
+    But I’m not sure how to pivot—or how to get back in. A contractor I worked with offered me a coordinator-type role
+    years ago when I left. I’m wondering if reaching out to him could still be a good way back, assuming it’s still even
+    an option.
+
+
+    I’d love to hear from anyone who’s taken a break, changed directions, or restarted after a gap. How did you approach
+    it? What worked? What didn’t?
+
+
+    Any advice or perspective would mean a lot.
+
+
+    **TL;DR:**
+
+
+    4 years of experience in architecture → 4-year break due to burnout → did small freelance gigs → now interested in
+    interiors but unsure how to return. How do I get back into the field?
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1hctc9w
+  title: 'Title: Architects, How Do You Feel About Construction Administration?'
+  subreddit: r/Architects
+  author: GRpm20
+  score: 9
+  comments: 77
+  url: https://www.reddit.com/r/Architects/comments/1hctc9w/title_architects_how_do_you_feel_about/
+  created_utc: 1734032300
+  selftext: >-
+    Hi everyone,  
+
+    I'm curious to hear from architects about their experiences with **Construction Administration (CA)**. How do you
+    feel about this phase of a project? Is it something you enjoy, or do you find it to be a necessary but tedious part
+    of your work?
+
+
+    * Do you feel that CA is an essential part of ensuring the integrity of your design?
+
+    * How do you manage the balance between being hands-on during construction and focusing on other projects?
+
+    * Do you find it challenging to communicate with contractors, or is it an area where you feel confident?
+
+    * Are there specific tools or strategies you've developed to streamline the process?
+
+
+    Looking forward to hearing your thoughts and experiences!
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 18f99mt
+  title: Project managers, how are you charging for Construction Administration?
+  subreddit: r/Architects
+  author: Baums_Away
+  score: 4
+  comments: 22
+  url: https://www.reddit.com/r/Architects/comments/18f99mt/project_managers_how_are_you_charging_for/
+  created_utc: 1702231286
+  selftext: >-
+    In my renovation project, Construction Administration (CA) constituted 20% of the total design fee. Typically, this
+    arrangement has been successful in past projects. However, in this design bid build project, the awarded contractor
+    has generated numerous RFI’s and Change Orders. The Owner is making weekly design changes during construction,
+    communicating directly with the site superintendent instead of me and the Contractor’s project manager. The CA phase
+    has been exceptionally challenging, and I spend six hours daily managing calls and revisions. While some design
+    expenses are covered under additional services per the contract, not all are, as I hesitate to charge the owner for
+    seemingly minor changes. Is it uncommon to structure CA as an hourly service not to exceed, separate from the total
+    design fee? I'd appreciate hearing about other design professionals' experiences in similar situations. Thanks!
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: pdb47q
+  title: Recommendations for how to Manage Construction Administration “CA” on a Project
+  subreddit: r/Architects
+  author: Baums_Away
+  score: 11
+  comments: 10
+  url: https://www.reddit.com/r/Architects/comments/pdb47q/recommendations_for_how_to_manage_construction/
+  created_utc: 1630162134
+  selftext: >-
+    Hey all - Most of my projects have entered the Construction Administration phase, and I’ve unfortunately found
+    myself inundated with paperwork, Zoom meetings, on-site progress meetings, Requests for Proposals, Change Orders,
+    Requests for Information, and general babysitting of the Owner and Contractor. Our principals never budget the
+    correct amount of time and money it takes to accurately handle CA, so I find myself always shooting way past our
+    numbers when trying to handle these items. With this in mind, does anyone have any recommendations for helpful
+    software or want to share how they handle CA on their own projects? I typically have been using BlueBeam to red mark
+    the permit set at each location where a change occurs, and then linking the respective change order and field
+    pictures of the area in question. I also track all changes to the original contract in an excel spreadsheet. Am I
+    going about this the right way? Thanks in advance for the advice!
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1txxh8q
+  title: >-
+    Unsolicited Advice for those Entering the Profession: One of the worst things you can do is be pigeon-holed as the
+    'guy who's great at graphics / rendering' at your firm. It can severely limit your growth and salary and can be hard
+    to recover from if you don't advocate for yourself.
+  subreddit: r/Architects
+  author: No-Albatross-4610
+  score: 121
+  comments: 43
+  url: https://www.reddit.com/r/Architects/comments/1txxh8q/unsolicited_advice_for_those_entering_the/
+  created_utc: 1780693543
+  selftext: ''
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

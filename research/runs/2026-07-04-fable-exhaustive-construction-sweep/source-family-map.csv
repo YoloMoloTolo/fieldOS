@@ -1,0 +1,21 @@
+source_family,status,backend_used,records_in_jsonl,notes
+reddit,ok,OpenCLI browser bridge (research profile),42,"17 searches across 14 subreddits + 12 thread deep-reads; richest family; raw/ has all outputs"
+contractor_forum,ok,opencli web read + WebSearch discovery,3,"ContractorTalk business threads; extractor lossy (single-post extraction) but usable"
+investor_forum,ok,opencli web read + WebSearch discovery,3,"BiggerPockets rehab/draw threads; 1 full read + 2 via search summaries with URLs"
+twitter,ok,twitter-cli (Brave cookies),5,"weak family for operator pain — mostly vendor/news content; documented honestly"
+youtube,ok,yt-dlp (search + auto-subs),2,"2 transcripts (305k and 570k view videos); comments tried once — ad-viewer noise, dropped"
+bilibili,ok,bili-cli (no login),2,"CN payment-arrears + renovation add-on-trap genres; strong severity benchmark"
+industry_news,ok,RSS via stdlib XML (constructiondive),3,"forconstructionpros feed 403'd; ENR not pulled"
+trade_association,ok,WebSearch (AGC 2025 workforce survey),2,"92% hiring difficulty; 45% shortage-caused delays"
+job_posts,ok,opencli web read (Indeed Nashville),1,"LinkedIn-substitute for role-demand signal per run modification"
+software_reviews,partial,WebSearch secondary sources only,3,"Capterra/G2/Trustpilot blocked at CDN both via Jina (AS blocked) and browser reader; used review-summary secondaries graded C + Reddit user reports"
+linkedin,SKIPPED BY USER INSTRUCTION,none,0,"No mcporter probes run; linkedin-scraper-mcp not required; job-post signal partially compensated via Indeed"
+exa_search,unavailable,none (mcporter has no servers configured),0,"compensated with Claude-native WebSearch for discovery"
+web_jina,blocked,r.jina.ai returned 401 AuthenticationRequiredError (network reputation AS7922),0,"compensated with opencli web read (browser) + WebFetch"
+facebook,attempted_no_results,OpenCLI,0,"search adapter returned filter-bar only; groups list empty (research profile in no groups); personal-account groups NOT used per policy"
+instagram,probed_low_value,OpenCLI,0,"user-search only surfaces accounts, not pain posts; account list saved to raw/"
+xiaohongshu,attempted_empty,OpenCLI,0,"search returned []; likely login state absent on XHS in research profile"
+v2ex,probed_not_relevant,public API,0,"hot topics scanned — pure tech content, no construction relevance"
+xueqiu,unavailable,no logged-in cookie,0,
+xiaoyuzhou,unavailable,ffmpeg missing,0,
+government_legal,partial,via twitter (DOL enforcement) + repo TN statutes,0,"no direct BLS/OSHA/court pulls this run; flagged in critique as gap"

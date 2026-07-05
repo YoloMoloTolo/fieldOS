@@ -1,0 +1,152 @@
+- id: 1sogj3s
+  title: Sub Contracting Rates
+  subreddit: r/electricians
+  author: Traditional-Car5456
+  score: 7
+  comments: 20
+  url: https://www.reddit.com/r/electricians/comments/1sogj3s/sub_contracting_rates/
+  created_utc: 1776466902
+  selftext: >-
+    Hi All, Little about me. 20 yr electricians. Out on my own for about a year now. Charging $150/hr. Local rates in
+    our area in the upper Midwest are anywhere from 150-190 for small to medium shops. Upwards of 250-300 for large
+    commercial shops running huge crews.
+
+
+    My question is what do you charge when and if you get charged out by another shop or subbed out? Here’s the reason I
+    ask.
+
+
+    An older 1 man show sparky who I use to help out while I was wrapping up my masters license a while ago has been
+    calling me for help lately. I use to work for him for $45 an hour. Basically handshake billing scratch pad
+    calculations. Super simple.  Welll fast forward a couple years… I sent him my rates in a letter a few months ago
+    when my business got a touch busy and didn’t have time to help him. Recently he’s been calling me and decided to
+    help him out to fill in some slow hours. Works out for both of us. He gets compennted help. And I make a few bucks…
+    well because of the history and having a good relationship well what I thought… 4 weeks into helping him.. invoicing
+    him weekly…  he kinda has a mini meltdown. 
+
+
+    He charges $180/hr for himself. At the end of the last job this week… He tells me that he can’t do $80 from me… I
+    said that’s understandable if you can’t. He says what’s the lowest you will take? I said that is the lowest I can
+    go… any lower then that I can’t afford to pull my tools out, my truck out and drive to the job for you…. Why not $45
+    like it use to be? I said for $45/hr I’m not even leaving the house I’m sorry. I proposed we have a discussion about
+    job size and only calling me when he really needs me… He has a blow up and says well how am I suppose to charge this
+    much for you to customers. You need to figure out a lower number. Call me when you come to your senses, you’re not
+    worth that much!  then he storms out in his van. Now mind you… he’s already into me for about $4,000 already… and I
+    was getting ready to pull the pin until he paid up some. 
+
+
+    I know $80 is super low and reasonable, running my own truck… sometimes we work hand in hand, sometimes I go
+    knockout a small job for him… I think I’m being reasonable. Time to cut ties unless he pays up?
+
+
+    Big question is so I have something to base off of… what would you charge any other contractor? What percentage of
+    your rate?
+
+
+    Thanks all!
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: b9qvqf
+  title: Remodeling Rates
+  subreddit: r/electricians
+  author: inknuts
+  score: 2
+  comments: 4
+  url: https://www.reddit.com/r/electricians/comments/b9qvqf/remodeling_rates/
+  created_utc: 1554469056
+  selftext: >-
+    So, long time Residential master here, but new buisness owner.
+
+
+    I worked 15-20 years with a construction company as sole electrician. Wired about a gajillion circuits, but never
+    had to track expense or cost of projects. It was a carefree life professionally speaking, even if at times I worried
+    about getting a loaded fork to mouth. Being young and stupid, I had no idea of what was being paid for the work i
+    was doing.
+
+
+    nice secretary at the office did that. Though that data existed, it was never shared with me. They compared the
+    electrical expense for the job against the pre-construction electrical bids, and as long as I was lower than the
+    lowest bid, then nobody gave a honeybadger. If I was higher, then I had to justify my expenses.
+
+
+    fast foreward to now. left said construction company to lead the life of captian of Industry. started my own company
+    and got to it. Looked to others for advice, developed rate schedule got going.
+
+
+    Living the dream.
+
+
+    re- wired 4 houses all by myself in first few months. Bigboypants.exe.
+
+
+    The question is, how do you all develope qoutes for remodels?
+
+
+    Currently, I have been giving a rough estimate at the beginning, and billing time and materials. being from the
+    midwest, I found some non-competing folks, and asked for help. The advice given was go time and materials until you
+    are comfortable, then bid em and contract them.
+
+
+    You dont have to be a rocket surgeon to know that billing time and material with rough estimate upfront is
+    dangerous. Clients make changes to the scope of work, and then get  upset if cost inflates.
+
+
+    An example might be this. Client purchased a house run in anaconda with no ground. All recepticles lack ground. all
+    fixtures lack ground.
+
+    the initial scope of work was to replace/rewire recepticles and fixtures on five circuits.
+
+
+    Ok Mr. Costumer, I AM THINKING XXXXX DOLLARS. might be more, might be less, but this is a good starting point. Mr.
+    Customer says that is a good deal, get started.
+
+
+    usually it is quiet for 2-3 days. then the changes start. Hey, Inknuts, while you are here, can you fix the
+    microwave circuit, damn thing trips if the dishwasher is on, then neither works. Cant figure it out by myself.
+
+
+    Ok, yeah. We can work on it. 
+
+
+    Oh, and while we are here, can we look at the garage?
+
+
+    Yeah sure, Im Hourly. I would be happy to.
+
+
+    And, since we are here, maybe we ought to upgrade panel and mast. Can you do it?
+
+
+    Yes we can.
+
+
+    fast foreward to a week later.
+
+
+    Inknuts, your invoice says xxxxxx dollars which is xxxx dollars higher than your estimate. Golly, all the sudden
+    this seems expensive, or I cant pay all  this etc.
+
+
+    Can anyone give me some more advice on how to  keep this insanity from happening? Being new to bidding jobs, I dont
+    want to turn down any additional work that arises, but I also dont want to be known as an a-hole scam artist that
+    says x amount and charges y amount. 
+
+
+    I am aware contracts on resi remodels can also be dangerous to an electrical contractor.
+
+
+    any thoughts?
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

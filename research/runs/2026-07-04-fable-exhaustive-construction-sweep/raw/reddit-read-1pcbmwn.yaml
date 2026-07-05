@@ -1,0 +1,152 @@
+- author: toucher13
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 9
+  text: >-
+    Fellow contractors: How did your cash flow work when you first started?
+
+
+    Howdy friends! I run a small concrete contracting company and we're starting to be presented with opportunities to
+    work with some GCs on larger projects, however making the cash flow work is where I'm hitting a major snag. 
+
+
+    We've only been in business for a year now and no bank has been willing to offer us a line of credit because the
+    business is young. I've tried big banks, local banks, no dice either way. We have 
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: Aware_Masterpiece148
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 15
+  text: >-
+    Congrats on surviving your first year! About half of new businesses fail during year one.  There are no shortcuts to
+    growing any successful business, especially a construction business.  Most contractors take at least five years to
+    be financially independent.  You’ll pay for the invoice factoring directly from profits. Most concrete contractors
+    don’t generate enough margin (profit) to give 10 to 20% of total receipts...
+  type: L0
+  url_overridden_by_dest: ''
+- author: PeePeeMcGee123
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 8
+  text: >-
+    It sucked, bad.
+
+
+    My first line of credit was basically just overdraft protection for a few grand.
+
+
+    Intuit will give anyone a line of credit, but be very careful as it's basically credit card interest rates.
+
+
+    I have several hundred thousand in credit with my bank now, but it's taken over a decade of building with them and
+    they hold a lien over every business asset as security.
+
+
+    My best advice is to save up a cash pool...
+  type: L0
+  url_overridden_by_dest: ''
+- author: Holupsucker
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 7
+  text: >-
+    Only use cash for payroll, use credit for everything else. Pay it off when you get paid. Keep in mind there may be
+    retention held by the GC for the duration of the warranty period which can be all the profit from the job. I’d try
+    to mix in small jobs that pay immediately along with the larger “commercial “ projects. Operating on cash flow is a
+    big risk because if someone doesn’t pay you go bankrupt. Take a weekly sal...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: 208GregWhiskey
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 5
+  text: >-
+    I have been in the GC game for a while and the key is trust. I am assuming you are getting into this because you are
+    being asked. As long as there is trust there I have given advances to my smaller/newer subs to help them get cash
+    flow going specifically for payroll. This would also go along with joint checking your suppliers so they are
+    covered. It’s hard starting out or scaling up and if both ends keep their part o...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: TallWall6378
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    A couple years of suffering early on can pay massive dividends for life. Work 80 hours a week, do everything
+    possible to spend less than half of what you're earning. Build up that 90 days of payroll and then keep going from
+    there. You'll end up in a state of high accounts receivable and low accounts payable, which really makes sleeping at
+    night easy.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Intrepid_Influence_7
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    What helped us early on was breaking the work into tighter billables. Don’t wait for 30 days to send one invoice.
+    Push for weekly or milestone billing, even if the milestones are small. A lot of GCs won’t volunteer it, but they’ll
+    agree if you frame it as “keeps my crew moving without delays.”
+
+
+    Second thing: negotiate deposits on anything heavy in labor or materials. Even 10–20 percent upfront buys you
+    breathing room...
+  type: L0
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: Are you all in? Takes money to make money.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '[+6 more top-level comments]'
+  type: ''
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

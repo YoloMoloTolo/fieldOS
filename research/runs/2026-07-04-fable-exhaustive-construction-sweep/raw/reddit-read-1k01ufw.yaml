@@ -1,0 +1,149 @@
+- author: I_AM_JIM_CARREY
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 5
+  text: >-
+    Working Capital Loans for Construction Company
+
+
+    Hello all - i run a $5-$6M residential construction company and while it is profitable, the cash flow restrictions
+    cam be hard. I just had to take out a line of credit to bridge covering expenses and payroll thru my next closing in
+    June. It's been a really long winter for us, but we luckily do have a lot of new projects in the pipeline. 
+
+
+    This is the second time I've had to do this in 5 years just to bridge the gap b
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: AutoModerator
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    This is a friendly reminder that r/smallbusiness is a question and answer subreddit. You ask a question about
+    starting, owning, and growing a small business and the community answers. Posts that violate the rules listed in the
+    sidebar will be removed. A permanent or temporary ban may also be issued if you do not remove the offending post.
+    Seeing this message does not mean your post was automatically removed.
+
+
+    *I am a...
+  type: L0
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 12
+  text: >-
+    It's very, VERY dangerous territory. It sounds like you're floating payroll - which is insanely risky. This is
+    different from, for example, "I have a signed contract for a $500k, but I have to front $100k in materials and cash
+    is short". 
+
+
+    I'm not directly in construction but my industry is directly adjacent. And we both know, shit can turn on a dime.
+    Sometimes it turns in our favor (covid) sometimes it turns and fuc...
+  type: L0
+  url_overridden_by_dest: ''
+- author: Character_School_671
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    I think what you described as common, but I would not say that it is okay exactly.  But a lot of your peers are
+    probably doing the same thing.
+
+
+    I'm in agriculture and it has a somewhat similar capital cycle. A lot of farmers have to borrow some money to pay
+    the last bit of expenses until Harvest comes in and then they pay it off and start over.
+
+
+    Having to do that kind of thing once every 5 years I think would make yo...
+  type: L0
+  url_overridden_by_dest: ''
+- author: Specific-Peanut-8867
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    It’s fairly common for successful companies to borrow from the bank to make it through those lean months
+
+
+    And it’s also common for successful companies to borrow from the bank to help with cash flow during good months, so
+    don’t be too hard on yourself
+  type: L0
+  url_overridden_by_dest: ''
+- author: BeanCounter30
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    Your financial statements will tell the story. Could be numerous reasons. Vendor pricing for materials increased but
+    not passing the cost through? Increase in overhead (OPEX) expenses? Days to collect on invoices increasing? Paying
+    vendors too fast? Cash flow statement will show you where all the cash is going.
+  type: L0
+  url_overridden_by_dest: ''
+- author: beardmeblazer
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: Could you add in supplemental lines of work to keep revenue coming in during the slow construction periods?
+  type: L0
+  url_overridden_by_dest: ''
+- author: MistakeIndependent12
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    Many contractors burn their profit margins with credit cards and merchant cash advances.
+
+
+    If you need help, our team offers something called the CAPline up to $5M.
+
+
+    It is specific to a project where you can use the line for materials labor and overhead. The cost is the prime rate
+    plus 2-3 percent. Terms are up to 10 years. Much better than Billd or other products out there 
+
+
+    You're welcome to DM me or checkout my web...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: Buy and read "Profit First."
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '[+1 more top-level comments]'
+  type: ''
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

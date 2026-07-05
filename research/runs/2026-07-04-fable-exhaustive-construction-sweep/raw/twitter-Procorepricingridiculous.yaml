@@ -1,0 +1,237 @@
+ok: true
+schema_version: '1'
+data:
+- id: '2073173161680511165'
+  text: The console pricing changes have gotten ridiculous https://t.co/kNqtte2Hn2
+  author:
+    id: '1654099008241954817'
+    name: CarterPCs
+    screenName: realcarterpcs
+    profileImageUrl: https://pbs.twimg.com/profile_images/2071355499379859457/POHyI8eJ_normal.jpg
+    verified: true
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 1
+    bookmarks: 0
+  createdAt: Fri Jul 03 22:32:54 +0000 2026
+  createdAtLocal: 2026-07-03 17:32
+  createdAtISO: '2026-07-03T22:32:54+00:00'
+  media:
+  - type: video
+    url: https://video.twimg.com/amplify_video/2073173106806456320/vid/avc1/576x1024/xldQ9mefJKXdw-wB.mp4?tag=28
+    width: 576
+    height: 1024
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2072993898117644529'
+  text: '／
+
+    『#DOA6LR』コスチューム製作秘話インタビュー🎙️
+
+    ＼
+
+
+    7/2(木)より配信されたマリー・ローズ専用コスチューム「ナイトオブローズ」について、魅力やコンセプトを開発チームにお伺いしました👗ぜひご覧ください。
+
+
+    全文：https://t.co/9Qplsoa4V9 https://t.co/ZAfLPbhqjZ'
+  author:
+    id: '1564797168463929344'
+    name: コーエーテクモ アプリ(KT App)@正式サービス開始！
+    screenName: Koeitecmo_App
+    profileImageUrl: https://pbs.twimg.com/profile_images/1568138273192820737/guKMAjiz_normal.jpg
+    verified: false
+  metrics:
+    likes: 287
+    retweets: 85
+    replies: 22
+    quotes: 16
+    views: 32430
+    bookmarks: 51
+  createdAt: Fri Jul 03 10:40:34 +0000 2026
+  createdAtLocal: 2026-07-03 05:40
+  createdAtISO: '2026-07-03T10:40:34+00:00'
+  media:
+  - type: photo
+    url: https://pbs.twimg.com/media/HMS-gPNaMAAHN2t.jpg
+    width: 800
+    height: 800
+  urls:
+  - https://koeitecmo.page.link/8g9i
+  isRetweet: false
+  retweetedBy: null
+  lang: ja
+  score: null
+- id: '2073505514713977217'
+  text: '@Koeitecmo_App The pricing is ridiculous for this game that kinda of lives
+    off selling dlc outfits. The outfit quality is not worth it at all.'
+  author:
+    id: '18074498'
+    name: Electric Roses
+    screenName: ElectricRoses
+    profileImageUrl: https://pbs.twimg.com/profile_images/1423300830678114309/LqhjSbAn_normal.jpg
+    verified: false
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 10
+    bookmarks: 0
+  createdAt: Sat Jul 04 20:33:33 +0000 2026
+  createdAtLocal: 2026-07-04 15:33
+  createdAtISO: '2026-07-04T20:33:33+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073473650632573074'
+  text: 'BREAKING: Bitcoin officially reclaims $63,000. https://t.co/Q9Rlg2b85Z'
+  author:
+    id: '3316376038'
+    name: The Kobeissi Letter
+    screenName: KobeissiLetter
+    profileImageUrl: https://pbs.twimg.com/profile_images/1975243710846640128/fwYCe67Y_normal.jpg
+    verified: true
+  metrics:
+    likes: 2515
+    retweets: 158
+    replies: 167
+    quotes: 28
+    views: 182870
+    bookmarks: 26
+  createdAt: Sat Jul 04 18:26:56 +0000 2026
+  createdAtLocal: 2026-07-04 13:26
+  createdAtISO: '2026-07-04T18:26:56+00:00'
+  media:
+  - type: photo
+    url: https://pbs.twimg.com/media/HMZ1S9fW8AApBe0.jpg
+    width: 1206
+    height: 2021
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073536512281485438'
+  text: '@KobeissiLetter funny how $63k used to feel euphoric and now its basically
+    baseline pricing again'
+  author:
+    id: '407191217'
+    name: Volodymyr Pavlenko
+    screenName: mindinpanic
+    profileImageUrl: https://pbs.twimg.com/profile_images/2041924795227426816/di9xFDrg_normal.jpg
+    verified: true
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 5
+    bookmarks: 0
+  createdAt: Sat Jul 04 22:36:43 +0000 2026
+  createdAtLocal: 2026-07-04 17:36
+  createdAtISO: '2026-07-04T22:36:43+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073028987052237051'
+  text: 'Happy Fourth of July to all our customers and associates! 🇺🇸
+
+
+    Our stores are open regular business hours Saturday, July 4. Our pharmacies will
+    be closed, with regular pharmacy hours resuming Sunday, July 5.'
+  author:
+    id: '14784550'
+    name: Publix
+    screenName: Publix
+    profileImageUrl: https://pbs.twimg.com/profile_images/1289269554816995328/6xun0qpb_normal.jpg
+    verified: false
+  metrics:
+    likes: 253
+    retweets: 16
+    replies: 10
+    quotes: 2
+    views: 9316
+    bookmarks: 6
+  createdAt: Fri Jul 03 13:00:00 +0000 2026
+  createdAtLocal: 2026-07-03 08:00
+  createdAtISO: '2026-07-03T13:00:00+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073452426619666919'
+  text: '@Publix Mr. Jenkins is rolling over in his grave. Almost as bad as your customer
+    service these days and your ridiculous monopolistic pricing.'
+  author:
+    id: '28019252'
+    name: Stephen Wendig
+    screenName: gatorsteve
+    profileImageUrl: https://pbs.twimg.com/profile_images/2058606134542401536/6C15tqoo_normal.jpg
+    verified: false
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 16
+    bookmarks: 0
+  createdAt: Sat Jul 04 17:02:36 +0000 2026
+  createdAtLocal: 2026-07-04 12:02
+  createdAtISO: '2026-07-04T17:02:36+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2070952590410449235'
+  text: 'I’m pleased to see Silverstone are struggling to sell all tickets for next
+    week’s #BGP - I hope fellow fans have boycotted it with me due to their ridiculous
+    pricing. Still can’t believe if I go on Friday for practice, it will cost me £120
+    JUST TO PARK! #F1 https://t.co/v5IA2OhCRN'
+  author:
+    id: '15116581'
+    name: jason cronin
+    screenName: jaycronin
+    profileImageUrl: https://pbs.twimg.com/profile_images/1997236305642549248/QiyS8nTH_normal.jpg
+    verified: false
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 520
+    bookmarks: 0
+  createdAt: Sat Jun 27 19:29:08 +0000 2026
+  createdAtLocal: 2026-06-27 14:29
+  createdAtISO: '2026-06-27T19:29:08+00:00'
+  media:
+  - type: photo
+    url: https://pbs.twimg.com/media/HL2AZgIWkAAZ9Ph.jpg
+    width: 828
+    height: 1792
+  - type: photo
+    url: https://pbs.twimg.com/media/HL2AZgIWsAAnQKN.jpg
+    width: 828
+    height: 1792
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+

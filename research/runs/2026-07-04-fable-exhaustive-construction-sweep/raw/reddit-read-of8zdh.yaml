@@ -1,0 +1,146 @@
+- author: braxvang
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 28
+  text: >-
+    Builder has an 18% fee on all "unforeseen and additional charges" - I think I screwed myself
+
+
+    I'm currently building a house with a large national U.S. builder.  They are currently 6 months behind schedule and
+    around $12,000 over budget, and they haven't even finished clearing the site yet.  I am constantly having to stay on
+    top of them due to poor communication.  That's not what this is about though.  
+
+
+    I am curious, they have an 18% fee on the sitework and any additional charges that arise from their contra
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: gatsby641
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 18
+  text: >-
+    As a builder this is pretty standard practice. We use a fixed price contract with allowances but most contractors
+    use a cost plus method which is what this sounds like. Unfortunately you are correct, for them there is no incentive
+    to negotiate as the price going up only helps their bottom line. Most contractors under bid jobs to close clients
+    and let these items drive the price up to where they knew it was going to b...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: bravekc
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 7
+  text: >-
+    This is plenty fair and standard language for site prep. I think you would be surprised to find out how that 18% is
+    chopped up pretty quick. Easy 5% goes off to insurance and license fees. Another 3% goes to general overhead. 
+
+
+    Last 10% is profit the company is building your house to make money.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: monkey7247
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 4
+  text: >-
+    I have a “cost plus 15%” contract with our builder. From my reading, even up to 25% could be normal depending on the
+    market. I asked the same questions you are re: why negotiate if they get paid better to not negotiate. 
+
+
+    Ultimately it comes down to reputation and integrity. The company we chose had an excellent reputation in the area
+    and in fact was the builder our architect used when he renovated his own house. Kno...
+  type: L0
+  url_overridden_by_dest: ''
+- author: MakeItRain34
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 4
+  text: >-
+    Depends on the charge and what its for.  If they missed something on the plan, that should be on them to eat it.  If
+    its material costs constantly rising then they have a valid argument.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: frez1001
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    18% is fair for actual change orders. Read your contract as to how change orders are dealt with.  Keep a close eye
+    on how they are charging you they should not be Willy nilly with spending more money over agreed . They go over on a
+    sub or materials ask them to get more bids. You should approve overages before they occur. But all this depends on
+    your contract structure. You likely chose a “cheaper” method vs a more gu...
+  type: L0
+  url_overridden_by_dest: ''
+- author: Semper_Fi_MuddDog
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    Industry standard is 15%. 10% profit and 5% overhead. 
+
+    If they are in-fact 6 months behind schedule you could start the process to terminate your contract. You would have
+    to have everything documented well and would have had to make it clear that the delays are negatively  impacting
+    you. 
+
+    The biggest concern you need to be aware of is that if you’re having these issues at the site work portion of the
+    job what can you...
+  type: L0
+  url_overridden_by_dest: ''
+- author: EnvironmentalLuck515
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    We are building with Bloomfield Homes and there is none of this nonsense. Our contract price is our contract price.
+    I am sorry you are having to deal with this. I hope you can get out of the contract.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

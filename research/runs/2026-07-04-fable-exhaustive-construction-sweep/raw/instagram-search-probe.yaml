@@ -1,0 +1,32 @@
+- name: Construction Business Owner Magazine
+  private: 'No'
+  rank: 1
+  url: https://www.instagram.com/cbomagazine
+  username: cbomagazine
+  verified: 'No'
+- name: Jeremy Lott
+  private: 'No'
+  rank: 2
+  url: https://www.instagram.com/constructionbusinessowners
+  username: constructionbusinessowners
+  verified: 'No'
+- name: Robert | Construction Business Owner
+  private: 'No'
+  rank: 3
+  url: https://www.instagram.com/constructionwithrobert
+  username: constructionwithrobert
+  verified: 'No'
+- name: aishah@manpowersupply business
+  private: 'No'
+  rank: 4
+  url: https://www.instagram.com/construction_business
+  username: construction_business
+  verified: 'No'
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

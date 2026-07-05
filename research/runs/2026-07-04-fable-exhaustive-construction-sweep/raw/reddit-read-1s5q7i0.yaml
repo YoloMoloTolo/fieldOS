@@ -1,0 +1,191 @@
+- author: another_african
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 8
+  text: |-
+    Retainage
+
+    Hey folks,
+
+    A question out of curiosity, I just learned about retainage.
+
+    Sounds like retainage gives a lot of leverage to GCs against their subcontractors. 
+
+    Does this not affect subcontractors bottom lines?
+
+    Thank you 
+  type: POST
+  url_overridden_by_dest: ''
+- author: smoosh33
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 38
+  text: >-
+    I work for a large MEP design build subcontractor as a superintendent.  We don't typically worry about not getting
+    retainage until the end of the job for two main reasons:
+
+
+    1. We have high profit margins if the job is a lump sum contract.  We typical bid out and secure most of our work
+    with a minimum of 15% margin.  If I can find a way to do the work on site faster or more efficiently, those margins
+    can go up to the 30% to 40% range.  The job cou...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Bucks_Deleware
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 9
+  text: >-
+    1) Have a signed contract.
+
+
+    2) Retainage is withheld from the payment.
+
+
+    3) Always submit an invoice, an AIA would be even better.
+
+
+    4) Have the payment notorized or confirmed by others.
+
+
+    5) Do a good job and see the project thru to completion.  When the job is nearing the end, draft an email seeking
+    clarification on project closeout dicemts, release of liens, as-buils, punch list, manuals, sops, etc.  any and all
+    of the above
+  type: L0
+  url_overridden_by_dest: ''
+- author: nerdslovescience
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 30
+  text: “Just learned about retainage” get out of this sub
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Wonderful-Smell3999
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 5
+  text: It’s all in the contract.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Palegic516
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 4
+  text: 'It’s a tool to get contractors to finish the job appropriately. Owners hold it over GCs as well. '
+  type: L0
+  url_overridden_by_dest: ''
+- author: Chunkyblamm
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 4
+  text: >-
+    Usually retainage is held from the funding sources so the GC is passing this down to you.  So if the owner is
+    getting funded from a bank or state or city or all of the above, he is passing down the retainage to the GC who is
+    passing it down to you
+
+
+    Edit:  I should add that in most cases, depending on the funding sources terms, retainage will go from 10% to 5% to
+    2.5% at certain milestones of project completion.  50% project completion and retaina...
+  type: L0
+  url_overridden_by_dest: ''
+- author: Huugienormous
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 3
+  text: >-
+    My workbook calculates interest on retention and how decent paying a customer is and adds it as project level
+    overhead to my final bid number. 
+  type: L0
+  url_overridden_by_dest: ''
+- author: solarxbear
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 7
+  text: >-
+    What do you mean? Retainage gets paid out in full upon project completion. How does it affect subcontractors bottom
+    lines?
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Blucifier1991
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: |-
+    It’s security, plain and simple. Owners withhold retainage from GCs as well. Pending state, typically 5%.
+
+    It can be negotiated out with subcontracts and purchase agreements.
+  type: L0
+  url_overridden_by_dest: ''
+- author: diseasuschrist
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: Many subcontractors price jobs with margins based on not receiving retainage at the end of the project.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '[+13 more top-level comments]'
+  type: ''
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

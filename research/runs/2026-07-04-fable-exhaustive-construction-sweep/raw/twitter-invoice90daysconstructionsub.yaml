@@ -1,0 +1,542 @@
+ok: true
+schema_version: '1'
+data:
+- id: '2072657802246467763'
+  text: One of my favorite internal Slack channels at Opendoor is the one where we
+    celebrate deleting code.  One of our engineers has deleted 3,409,894 lines of
+    code in 90 days.   Makes me so happy.
+  author:
+    id: '64721011'
+    name: Kaz Nejatian
+    screenName: nejatian
+    profileImageUrl: https://pbs.twimg.com/profile_images/1987564956217159680/erbTEfm8_normal.jpg
+    verified: true
+  metrics:
+    likes: 750
+    retweets: 41
+    replies: 59
+    quotes: 9
+    views: 46722
+    bookmarks: 20
+  createdAt: Thu Jul 02 12:25:02 +0000 2026
+  createdAtLocal: 2026-07-02 07:25
+  createdAtISO: '2026-07-02T12:25:02+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073113396942188674'
+  text: 'A federal appellate court handed a major win to ICE detainees in litigation
+    over the Trump admin''s mass detention policy.
+
+
+    In a 2-1 ruling, judges said detainees must get a bond hearing in 90 days to be
+    given due process rights, noting the vast majority are non-criminals and longtime
+    residents.'
+  author:
+    id: '32871086'
+    name: Kyle Griffin
+    screenName: kylegriffin1
+    profileImageUrl: https://pbs.twimg.com/profile_images/1743436870917267456/7n5SVp1g_normal.jpg
+    verified: true
+  metrics:
+    likes: 1358
+    retweets: 315
+    replies: 21
+    quotes: 6
+    views: 44325
+    bookmarks: 27
+  createdAt: Fri Jul 03 18:35:25 +0000 2026
+  createdAtLocal: 2026-07-03 13:35
+  createdAtISO: '2026-07-03T18:35:25+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073074288106909978'
+  text: 'A client was billed a deposit, a midpoint payment, and a final invoice. He''d
+    only remembered agreeing to "pay when it''s done."
+
+
+    The midpoint invoice felt like a surprise charge, even though it was in the contract
+    he signed.'
+  author:
+    id: '1867600471323815937'
+    name: Ryan | Contractor Systems
+    screenName: SustateSystems
+    profileImageUrl: https://pbs.twimg.com/profile_images/2048522697680814080/tPPsa1XM_normal.jpg
+    verified: true
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 18
+    bookmarks: 0
+  createdAt: Fri Jul 03 16:00:00 +0000 2026
+  createdAtLocal: 2026-07-03 11:00
+  createdAtISO: '2026-07-03T16:00:00+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073092658638278813'
+  text: 'My barber asked what I do for work & I told him the truth
+
+
+    "I''m a 24-year-old woman with 1,400 boyfriends"
+
+
+    He laughed. I showed him the dashboard. He stopped laughing & asked if I was hiring
+
+
+    The woman is AI-generated... a face, a voice & a personality I built on a laptop.
+    Lonely men subscribe for $9.99/mo & pay $80+ per locked message because she asks
+    about their day & nobody else does. Best month: $77,000
+
+
+    He asked the right question next: "ok but if you lost it all, could you do it
+    again?"
+
+
+    Yes. Here''s the exact 90-day sequence, from a blank laptop back to $10,000/mo:
+
+
+    DAYS 1-3: BUILD ONE GIRL
+
+
+    Twenty-plus face generations, kill 80%, lock the winner. Girl-next-door archetype,
+    mid-20s. The exotic-model look photographs better & converts worse... the customer
+    has to believe she''d actually talk to HIM. A 10/10 talking to a trucker breaks
+    the fantasy. An 8 keeps it alive
+
+
+    Then write the character document before generating anything else:
+
+
+    Name, age, city (mid-size, never LA/Miami... "Columbus" is believable, "Malibu"
+    is a red flag)
+
+    Job (flexible hours to explain her availability: nursing student, waitress, freelancer)
+
+    Family situation, one past relationship she mentions ONCE & deflects after
+
+    Speech habits: her emoji set (pick 4, only those 4), typo frequency, punctuation
+    style
+
+    3 things she''d never say, 3 topics she deflects, how she reacts to rudeness (hurt,
+    never angry)
+
+
+    This document runs the business later. Every content decision, every DM, every
+    future hire runs off it. Skipping it means rebuilding her personality from memory
+    in month 3 & the inconsistency will cost you your best spenders
+
+
+    DAY 4: PLATFORM SETUP
+
+
+    $9.99/mo on Fanview. Price psychology: $9.99 is an impulse, $14.99 is a decision.
+    You want the impulse... the real money comes later in messages anyway, the sub
+    price is a door charge
+
+
+    Load 15-20 pieces of content BEFORE a single visitor arrives. An empty page kills
+    a first impression you only get once. First 3 posts pinned: one face-clear photo,
+    one casual life shot, one tease. Bio written in her voice, one line, zero sales
+    language
+
+
+    DAYS 5-18: WARMING & POSTING
+
+
+    New social accounts get treated like suspects, so act like a person: 3 days of
+    only browsing & liking, then commenting for a few days, then 3-5 pieces of content
+    daily. Safest content public, everything else behind the paywall
+
+
+    Content split that works: 60% lifestyle (coffee, gym, car, mirror), 30% suggestive,
+    10% personality (a hot take, a joke, a bad photo). The lifestyle content is what
+    converts followers to subscribers... it sells the girl, the paywall sells the
+    rest
+
+
+    No DM plays yet. Traffic compounds from ~day 12 if you don''t get flagged, & you
+    get flagged by skipping the warming. One flagged account in week 1 costs you more
+    calendar time than the entire warming period
+
+
+    DAYS 14-30: CHAT EVERY SUBSCRIBER YOURSELF
+
+
+    No hires, no shortcuts, no AI auto-replies. This month IS the education: you''re
+    learning what men actually pay for so you can manage chatters later. You cannot
+    QA a job you''ve never done
+
+
+    Log every subscriber in a sheet from sub #1: name he goes by, job, timezone, details
+    he drops, what he''s bought. 10 subscribers feels manageable without it. 150 does
+    not, & by then it''s too late to reconstruct
+
+
+    First locked message ~day 20 at $15-22, never higher. The men who buy it get flagged
+    in the sheet... they''re your future ladder-climbers
+
+
+    Revenue at day 30: $300-1,500 & that''s a PASSING grade. Everyone who quits here
+    expected $10,000 in 3 weeks because a guru sold them that
+
+
+    DAYS 30-60: VOLUME + THE LADDER
+
+
+    Double content output. Keep chatting personally. Escalate buyers to $35-60 messages...
+    personal framing only ("took this thinking about you"), never broadcast blasts
+
+
+    Somewhere in here one clip outruns the rest by 10x. When it happens: duplicate
+    its STRUCTURE (same scenario, same framing, same length) 20 times & stop being
+    creative. The algorithm told you what it wants. Artists argue with that. Operators
+    comply
+
+
+    Revenue: $2,000-5,000
+
+
+    DAYS 60-90: THE FIRST HIRE
+
+
+    One chatter, $800/mo base + 10% of message revenue they close. Source from industry
+    job boards & Telegram groups, never from people who DM you first
+
+
+    Their test, before any interview: 3 mock subscriber messages. Anyone who answers
+    with a paragraph, a pitch, or generic "aww thank you" fails. The pass is short
+    + a question about HIS day. You''re hiring curiosity about boring men... it can''t
+    be trained into someone
+
+
+    Hand them the character document from day 1. Fire on the first sales-pitch opener,
+    first broken character, first copy-paste blast. No second chances on those three...
+    each one burns subscribers you can''t get back
+
+
+    Your job becomes content + reading 20 of their conversations a week. Revenue:
+    $6,000-12,000
+
+
+    That''s the honest curve. The $77,000 month took years of running this psychology.
+    The $10,000-20,000/mo tier needs no genius, no luck & no audience... it needs
+    90 days executed in order without skipping the boring parts
+
+
+    Month 1 is where 90% quit. The curve is real for everyone who doesn''t
+
+
+    My barber starts his girl next week. What''s your excuse
+
+
+    Link in bio for the system'
+  author:
+    id: '1972391464509595648'
+    name: daedalus
+    screenName: aiofmgod
+    profileImageUrl: https://pbs.twimg.com/profile_images/2057736268411478016/V8-K3Wjv_normal.jpg
+    verified: true
+  metrics:
+    likes: 78
+    retweets: 4
+    replies: 11
+    quotes: 0
+    views: 6655
+    bookmarks: 140
+  createdAt: Fri Jul 03 17:13:00 +0000 2026
+  createdAtLocal: 2026-07-03 12:13
+  createdAtISO: '2026-07-03T17:13:00+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2073016555831726378'
+  text: "Appeals court blocks Trump admin from holding migrants without bond for over\
+    \ 90 days\n\nHere we go again...\U0001F644\n\nICE goes to great lengths to capture\
+    \ these criminals, only to have judges interfere with the process over and over\
+    \ again. \n\nIf bond is allowed, these criminals will just disappear, making LE\
+    \ have to track them down again. \n\nIt's like the movie 'Groundhog Day'.\n\n\
+    Hopefully this ruling won't stand as DHS is confident it has the authority to\
+    \ hold these illegals.  \n\nFrom the article:\n\nAn appeals court on Thursday\
+    \ ruled that U.S. Immigration and Customs Enforcement cannot detain immigrants\
+    \ for more than 90 days without giving them an opportunity to seek release on\
+    \ bond while their deportation proceedings are pending.\n\nIn a 2-1 ruling, the\
+    \ Fifth U.S. Circuit Court of Appeals sided against the administration, potentially\
+    \ affecting thousands of immigrants who have been detained by Immigration and\
+    \ Customs Enforcement agents in states within the court's jurisdiction, including\
+    \ Texas and Louisiana.\n\nJudge Leslie Southwick, writing for the majority, said\
+    \ the U.S. Supreme Court found in 2001 that the due process clause protects everyone,\
+    \ including two Mexican citizens and one Honduran whose cases were at issue in\
+    \ this case.\n\nIn a dissenting opinion, Judge Cory Wilson said the majority \"\
+    marginalizes the Constitution's express grant of plenary authority over immigration\
+    \ matters to Congress.\"\n\nThe Department of Homeland Security said in a statement\
+    \ to the outlet that it disagrees with the ruling, adding that it is \"confident\
+    \ in its legal position regarding mandatory detention.\"\n\nLast week, the administration\
+    \ had asked the Supreme Court to review a similar ruling by a different appeals\
+    \ court.\n\nFederal immigration law states that \"applicants for admission\" ​to\
+    \ the country are ​subject to mandatory detention ⁠while their cases proceed in\
+    \ immigration courts, making them ineligible for bond hearings.\n\nDespite a long-standing\
+    \ interpretation of immigration law, the Department of Homeland Security claimed\
+    \ last year that non-citizens who are already in the U.S. qualify as \"applicants\
+    \ ​for admission\" subject to mandatory detention, rather than only people arriving\
+    \ at the border.\n\nThe Board of Immigration Appeals, which is part of the Justice\
+    \ Department, announced in September ​that it had adopted the Department of Homeland\
+    \ Security's interpretation.\n\nImmigration judges employed by the ​department\
+    \ began ordering mandatory detention across the country.\n\nLink to article in\
+    \ comments"
+  author:
+    id: '1099441769970692098'
+    name: NWRain-Judi
+    screenName: RYboating
+    profileImageUrl: https://pbs.twimg.com/profile_images/1900554196346343424/MzLvvxSO_normal.jpg
+    verified: true
+  metrics:
+    likes: 141
+    retweets: 151
+    replies: 29
+    quotes: 6
+    views: 4288
+    bookmarks: 16
+  createdAt: Fri Jul 03 12:10:36 +0000 2026
+  createdAtLocal: 2026-07-03 07:10
+  createdAtISO: '2026-07-03T12:10:36+00:00'
+  media:
+  - type: photo
+    url: https://pbs.twimg.com/media/HMTShDfaEAAs82X.png
+    width: 627
+    height: 353
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2072911439119941760'
+  text: "For tradespeople who spend their days on site, not behind a desk, InvoiceSent\
+    \ keeps your billing admin quick and straightforward. \n\nCreate professional\
+    \ VAT-ready invoices in moments, add payment links so customers can pay you instantly,\
+    \ and set up automatic reminders for overdue jobs. Everything is stored in one\
+    \ place, from client details to tax records, so you are not chasing paperwork\
+    \ when you could be getting on with the next job. \n\nA free plan is available,\
+    \ so there is nothing to lose and far more time to gain.\n\nTry it → https://t.co/qDzz9liewx"
+  author:
+    id: '2644645058'
+    name: Patrick Ryall
+    screenName: PadraigOraghail
+    profileImageUrl: https://pbs.twimg.com/profile_images/768725527041548288/J9zKYoah_normal.jpg
+    verified: true
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 23
+    bookmarks: 0
+  createdAt: Fri Jul 03 05:12:54 +0000 2026
+  createdAtLocal: 2026-07-03 00:12
+  createdAtISO: '2026-07-03T05:12:54+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2072872614373347577'
+  text: '📢 New from the IRS!
+
+
+    If you work with long term construction or manufacturing contracts, the new Excel
+    based Form 8697 calculator can make look back interest calculations easier.
+
+
+    👉 https://t.co/eFpl3EPDpI
+
+
+    #IRS #TaxUpdates #TaxProfessionals'
+  author:
+    id: '3286377386'
+    name: APtaxHK
+    screenName: APtaxHK
+    profileImageUrl: https://pbs.twimg.com/profile_images/766104479221493761/Z0MVrdvs_normal.jpg
+    verified: false
+  metrics:
+    likes: 0
+    retweets: 0
+    replies: 0
+    quotes: 0
+    views: 11
+    bookmarks: 0
+  createdAt: Fri Jul 03 02:38:38 +0000 2026
+  createdAtLocal: 2026-07-02 21:38
+  createdAtISO: '2026-07-03T02:38:38+00:00'
+  media: []
+  urls:
+  - https://www.irs.gov/newsroom/irs-releases-new-look-back-interest-calculator-for-long-term-contracts
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+- id: '2072077734109671794'
+  text: 'Met a girl in Austin who owes $200K on credit cards and hasn''t paid a single
+    dollar of interest in over 5 years
+
+
+    Thought she was full of shit
+
+
+    She pulled up a color-coded Google Sheet and walked me through it. The math actually
+    checks out. She might be the most dangerous person in consumer finance or the
+    most disciplined. Probably both
+
+
+    The one fact that makes the whole thing work, steal it right now:
+
+
+    Business cards don''t report to your personal credit. Chase Ink, Amex Blue Business,
+    Capital One Spark, US Bank Triple Cash. None of them post balances to your personal
+    file unless you default and they close the account. So you can carry $200K across
+    8 business cards and your personal credit report shows 2% utilization. Score stays
+    at 758. Banks keep approving her because they can''t see the other balances
+
+
+    Now her actual cycle:
+
+
+    She stacks $200K in 0% APR business cards across 6-8 banks. Deploys the capital
+    into rental properties and her event planning business. Around month 10, before
+    the 0% promo dies, she applies for a fresh round of 0% cards at different banks
+    she hasn''t used in 24+ months
+
+
+    Approved every time. 758 score. Clean personal file. Each bank sees a borrower
+    with almost no visible debt
+
+
+    Then she liquidates the new 0% cards through Trykashu at 6.5% and uses the cash
+    to pay off the old cards. The 0% clock resets for another 12 months. Old cards
+    drop to $0. New cards carry the $200K. Still $0 in interest
+
+
+    The yearly cost breakdown she showed me:
+
+
+    Trykashu liquidation fees per cycle: $13,000 (6.5% on $200K)
+
+    Total annual cost to maintain $200K in perpetual 0% capital: $13,000
+
+
+    Compare to:
+
+
+    SBA loan at 11.5% on $200K: $23,000/year in interest
+
+    Business line of credit at 9% on $200K: $18,000/year
+
+    MCA on $200K: $60,000-$120,000/year in fees
+
+
+    She pays $13K/year. The SBA borrower pays $23K/year. Same money. One of them is
+    paying 77% more for the identical capital
+
+
+    "What if one bank catches on and denies her?"
+
+
+    She maintains relationships at 11 banks simultaneously. If Amex denies her (it
+    happened once in 2024), she shifts to Navy Federal, PNC, and Regions. She keeps
+    a running list of which banks she''s applied to, when, and which bureau they pulled.
+    The spreadsheet tracks 23 data points per card
+
+
+    She also keeps $5K-$10K in business checking at every bank she plans to apply
+    to. The banking relationship bonus alone increases her approval limits 30-60%
+    at each institution. The $50K-$80K sitting across 11 checking accounts is permanent
+    bait money that she never touches
+
+
+    The rental property math on her deployed $200K:
+
+
+    Property 1 (Cleveland, $68K purchase): rents $1,050/month
+
+    Property 2 (Indianapolis, $74K purchase): rents $1,100/month
+
+    Property 3 (Memphis, $58K purchase): rents $975/month
+
+
+    Combined monthly rent: $3,125
+
+    Annual rental income: $37,500
+
+    Annual cost of 0% capital: $13,000
+
+    Annual property management (10%): $3,750
+
+    Annual insurance/taxes/maintenance: $8,400
+
+    Net annual cash flow: $12,350
+
+
+    She makes $12,350/year in free cash flow from properties bought entirely with
+    credit card money that costs her $0 in interest. The properties appreciate. The
+    rent increases. The capital cost stays flat at $13K/year
+
+
+    After 5 years: $61,750 in accumulated cash flow plus roughly $45,000-$60,000 in
+    property appreciation. Total wealth created from $200K in credit card money: roughly
+    $106,000-$122,000. Total interest paid to banks: $0
+
+
+    She told me something i think about constantly: "the bank designed the 0% promo
+    as a trap. they''re betting on my laziness. i turned their trap into my operating
+    system. they lose money on me every single cycle and they can''t stop approving
+    me because my credit file looks perfect"
+
+
+    Some banks caught her pattern. Amex denied her in late 2024. So she shifted to
+    Navy Federal and US Bank. Capital One still approves her every single time
+
+
+    5 years. $0 in interest. $200K in perpetual capital. 3 rental properties. I checked
+    the math three times. it works lmfaooo
+
+
+    (i build this exact stack for 700+ scores, $100K-$250K at 0%. if your score isn''t
+    there yet i fix it first in 30-90 days. link in bio)'
+  author:
+    id: '1217472690786668544'
+    name: hunter
+    screenName: hxxntrr
+    profileImageUrl: https://pbs.twimg.com/profile_images/2018407737189961728/NvdFQd7e_normal.jpg
+    verified: true
+  metrics:
+    likes: 174
+    retweets: 19
+    replies: 5
+    quotes: 1
+    views: 42456
+    bookmarks: 243
+  createdAt: Tue Jun 30 22:00:03 +0000 2026
+  createdAtLocal: 2026-06-30 17:00
+  createdAtISO: '2026-06-30T22:00:03+00:00'
+  media: []
+  urls: []
+  isRetweet: false
+  retweetedBy: null
+  lang: en
+  score: null
+

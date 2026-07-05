@@ -1,0 +1,155 @@
+- author: mikedm123
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 35
+  text: >-
+    Drowning in punch lists 
+
+
+    Morning yall. Can I get some tips in management of punch lists? I am in framing, drywall, and ceilings. I seem to be
+    running pretty good jobs tracking for target profitability throughout the whole job but I just keep just getting
+    destroyed in the last 10-15% of the job.
+
+
+    Point up, GC punch, architect punch, owners punch. Just countless hundreds of hours of punch list. Exhausting
+    fighting with GCs over what is QC defects and what is damage by othe
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: wheekwheekmeow
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 31
+  text: >-
+    Maybe insist on QC walks throughout the project so they can express what they think is not adequate and it can be
+    addressed to everyone’s satisfaction moving forward.  Are the punch items truly punch-level, or is it a
+    miscommunication on level of finish quality?
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Powerful-Bowl4215
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 11
+  text: Sometimes it’s worth it to insist on a change order if it’s 100’s of hours. Punch/completion lists suck
+  type: L0
+  url_overridden_by_dest: ''
+- author: CrocGang123
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 5
+  text: >-
+    Was in residential for a bit as a CM for a GC. Best advice I can give is 1. Document and communicate estimated
+    substantial completion of your scope to the GC while your still on site. This gives the GC a window to inspect while
+    your crews are still on site. (Which a GC should be doing anyways but supers are typically a reactionary bunch, not
+    proactive in addressing these things). 2. While not ideal, take as many photographs as possible before pul...
+  type: L0
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 3
+  text: >-
+    Pictures, Pictures, Pictures. I can't stress this enough. Walk with the field super to go over the job as it's
+    finishing. I'm a field super with a GC, and we do our own in-house carpentry. I take hundreds of photos from start
+    to finish, and I walk the site daily and point things out. When a sub says they're finished, I walk the site with
+    them. Doing that, my punchlists are very few items.
+  type: L0
+  url_overridden_by_dest: ''
+- author: Isuckatreddit69NICE
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 3
+  text: >-
+    Documentation. I know it’s annoying but every week go through your job with drawings on an iPad. Make your own
+    “punch list” and have it addressed. 
+
+
+    Take photos, emails etc. if you foresee a problem document it and send to GC. Half the battle of construction
+    management is just getting ahead of stupid bullshit and CYA.
+  type: L0
+  url_overridden_by_dest: ''
+- author: yardsaleski
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    Build out your punchlist while you’re completing, do regular QC walks with your foreman and document areas as you
+    finish. Other people damaging your work is the GC’s problem
+  type: L0
+  url_overridden_by_dest: ''
+- author: Historical_Half_905
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    Gyp board finish is always a bitch.. between trade damage and owners wanting a level 5 finish but only spec and pay
+    for a level 4. Have to set expectations early with GC. As the GC should also set expectations early with owner and
+    architect. Are you touching up after priming?
+  type: L0
+  url_overridden_by_dest: ''
+- author: TrueKing9458
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 3
+  text: >-
+    If it is a big enough project hire someone to continually walk through and make the trades fix it right away and
+    document when a trade damages others work. Take lots of pictures. 
+
+
+    Several subs think I am the biggest nit picky asshole. Which I probably am but I have delivered several projects
+    with zero punch list.
+  type: L0
+  url_overridden_by_dest: ''
+- author: LBC1109
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: RACE TO THE BOTTOM
+  type: L0
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    I’d be on the foreman’s ass about quality and job completion and have them document each completed section with
+    photos/videos. I’d encourage that if another trade damages your work that you are to report it immediately if you
+    saw it and that trade sub that committed such damage is to pay for repairs.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '[+12 more top-level comments]'
+  type: ''
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

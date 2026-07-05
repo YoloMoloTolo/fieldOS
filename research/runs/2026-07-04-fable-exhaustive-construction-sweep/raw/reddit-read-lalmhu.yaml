@@ -1,0 +1,171 @@
+- author: Scarbarella
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 104
+  text: >-
+    Contractor took my deposit - is it worth it to go after him? Does anyone ever get their money back?
+
+
+    Contractor took my deposit, has had only excuses or no communication for not showing up for scheduled work day and
+    time and isn’t answering my calls or texts at all now. It’s $2500... and it’s been a month since the scheduled start
+    date. 
+
+
+    Should I just cut my losses or is there any chance to get this money back? He did no work at all. 
+
+
+    I paid the deposit partially over a bank app and the rest cash with his text mes
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: unclejoe1917
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 145
+  text: If you have documentation of what you just described, I can't see any way you'd lose in small claims court.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: HodorsMajesticUnit
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 34
+  text: >-
+    Was this a licensed contractor? If so you have some remedies, e.g. against the surety bond NY contractors are
+    required to have.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: uniqueme1
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 32
+  text: >-
+    I lost a 2500 deposit to a guy who dug a few holes and disappeared.  Contrary to all the advice I got, I did end up
+    getting my money back. I wrote bad reviews on all the sites I could, and I also used my own personal blog to write
+    about the experience. It got to where google searching him came up with my reviews. I started the small claims court
+    process but He contacted me finally out of shame and paid me back in ins...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: nerdburg
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 36
+  text: >-
+    It's a crime. $2500 is well into felony territory. File a complaint with the Attorney General and contact your local
+    police department.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: _danigirl
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 11
+  text: What does your contract say regarding payments and installments? Was he using it to buy building materials?
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: teddycorps
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 12
+  text: >-
+    I don’t know for sure but don’t give up! I think it should be possible. First thing I would do is file a police
+    report. If they contact him, maybe it will scare him into returning the money. I def think it could be fraud.
+  type: L0
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 13
+  text: '[deleted]'
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Telemere125
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 12
+  text: >-
+    If he never did any work at all, it’s not breach of contract, it’s generally considered theft. If he’s done any
+    work, no matter how minor, most courts will call it a breach and you’ll have to go after him in civil court. Make a
+    police report and see if they’ll follow up and do the work for you.
+  type: L0
+  url_overridden_by_dest: ''
+- author: OLDGuy6060
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 6
+  text: Contact a lawyer who specializes in this kind of thing.
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '[+34 more top-level comments]'
+  type: ''
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

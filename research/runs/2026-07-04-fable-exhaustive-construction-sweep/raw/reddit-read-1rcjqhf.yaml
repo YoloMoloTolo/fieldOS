@@ -1,0 +1,144 @@
+- author: DubyaDForty
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 14
+  text: >-
+    Are bidding timeframes getting shorter?
+
+
+    I’ve noticed a trend in the last two months of receiving bid invites closer and closer to the due date. We are a
+    signage subcontractor. Just this morning we received 3 substantial projects due by this Friday (5 day turnaround).
+    No time for RFIs or substitution requests. 
+
+
+    I’m not sure if this has been common in other trades, but it has been a common trend for us. I would say on average
+    we have 50% less time to review
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: '[deleted]'
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 8
+  text: '[removed]'
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+3 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Correct_Sometimes
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 5
+  text: >-
+    Maybe a little. I'm usually a sub of a sub so what happens is the GC sends out the ITB on say, the 12th with a due
+    date of the 20th. Then unless that GC also invited me directly I don't get it until a customer of mine sends it and
+    sometimes that'll be the 15th with a due date of the 19th because they want a day to review it. So I end up losing
+    multiple days
+  type: L0
+  url_overridden_by_dest: ''
+- author: itrytosnowboard
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    I'm a plumbing sub and bid turnarounds are definitely getting tight. The GC's love to say "well it's a small job".
+    But even with a small job I need to get my fixture and equipment prices from vendors because the prices vary
+    insanely between bottom tier fixtures and top tier fixtures. I just bid a tenant fit out where each fixture was 2.5X
+    a typical tenant fit out (back of house) fixture. Like yea I can have the whole...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+2 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: DrywallBarron
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    In my opinion, this has been happening because so many GCs are now heavily driven by their marketing people. I used
+    to do almost exclusively design build work. We would be in a meeting with an owner, architect, GCs precon team, PM,
+    and usually someone from marketing. I can't tell you how many times I saw a PreCon Manager and PM leave pissed at
+    the marketing person for promising some ridiculous estimate turnaround and...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ParadoxicalIrony99
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    Subcontractors always get shafted because GCs and owners send them the bid info last. Some are better than others
+    but that's my experience.
+  type: L0
+  url_overridden_by_dest: ''
+- author: TheyFoundWayne
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    I think the timeframes have always been too short (decades of experience). Can’t say if I’ve noticed a change in the
+    last few months.
+  type: L0
+  url_overridden_by_dest: ''
+- author: TacticalTundra1776
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    I’m a GC estimator, for example I got two projects to bid on the same day same owner two different areas with the
+    same due date. Scopes are similar but not exact. I typically blast it out to MEP first. Then due a scope review and
+    skim the notes and blast it out to required trades usually within the same day. Luckily I managed too do this, this
+    time. While doing this I typically have my excel up taking notes of key th...
+  type: L0
+  url_overridden_by_dest: ''
+- author: BlerdAngel
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: I have yet to have over 3 weeks on a single bid this year
+  type: L0
+  url_overridden_by_dest: ''
+- author: VLuk86
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: Usually 8 weeks, no?
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '[+4 more top-level comments]'
+  type: ''
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

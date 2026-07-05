@@ -1,0 +1,217 @@
+- id: 1rcjqhf
+  title: Are bidding timeframes getting shorter?
+  subreddit: r/estimators
+  author: DubyaDForty
+  score: 14
+  comments: 32
+  url: https://www.reddit.com/r/estimators/comments/1rcjqhf/are_bidding_timeframes_getting_shorter/
+  created_utc: 1771858879
+  selftext: >-
+    I’ve noticed a trend in the last two months of receiving bid invites closer and closer to the due date. We are a
+    signage subcontractor. Just this morning we received 3 substantial projects due by this Friday (5 day turnaround).
+    No time for RFIs or substitution requests. 
+
+
+    I’m not sure if this has been common in other trades, but it has been a common trend for us. I would say on average
+    we have 50% less time to review a project than we did last year. Previously we may have had 3-4 weeks. Now we are
+    looking at 1.5-2. I know quick turnaround bids are inevitable, but they have been more common recently 
+
+
+    Are other trades having the same experience?
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1soh7d6
+  title: Thrown into a PE role with zero experience…
+  subreddit: r/estimators
+  author: PollutionBeginning78
+  score: 4
+  comments: 6
+  url: https://www.reddit.com/r/estimators/comments/1soh7d6/thrown_into_a_pe_role_with_zero_experience/
+  created_utc: 1776468585
+  selftext: >-
+    3 months ago I became a PE for a subcontractor with basically zero construction experience. Got the opportunity
+    through a relationship with someone higher up, and since then I’ve just been trying to learn as much as possible,
+    shadowing supers and PMs, asking questions, etc.
+
+
+    Now I’m in the office with another PE and we’re supporting 30+ projects, mostly handling submittals. Honestly, I
+    feel pretty overwhelmed. I’m still trying to wrap my head around the full process, what needs to get done, how to do
+    it, and who to even go to for certain things.
+
+
+    We use an Excel submittal log to track everything, but I still feel pretty lost with it. One of the biggest things
+    stressing me out is how to actually build out a clean submittal log for a project.
+
+
+    I get info from QuickBid and I know I’m supposed to create submittals from those materials/products, but it’s super
+    unorganized and I don’t really know what I should be pulling from it or how to structure it in the log.
+
+
+    Any advice for someone new in a PE role? Especially around submittals, getting organized, and just not feeling
+    completely underwater all the time. 
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1plwg86
+  title: Downtobid app review from a GC estimator
+  subreddit: r/estimators
+  author: OracleWinslow
+  score: 0
+  comments: 15
+  url: https://www.reddit.com/r/estimators/comments/1plwg86/downtobid_app_review_from_a_gc_estimator/
+  created_utc: 1765661097
+  selftext: "# What is Downtobid?\n\nIn their own language, Downtobid is an\_**AI construction bidding platform**\_for GCs and subs. It’s supposed to:\n\n* Streamline bid invites / ITBs and deadlines.\n* Analyze your drawings and plans, identify scopes, draft invite emails, and send them to\_*local, qualified subcontractors*\_so you can quickly build bid coverage.\n* Handle the\_**front-end of the bid process**: finding subs, breaking down scopes, and sending personalized invites^(.) \n\nSo the pitch is basically: “Upload your plans, let our AI figure out the scopes, we’ll help you find subs and blast out good-looking, personalized bid invites in minutes.”\n\n# Intro / TLDR \n\nDowntobid is a great idea with a lot of potential, but the execution feels half-baked and way too “training wheels on.” I’d recommend it for overwhelmed small shops without a dedicated estimating department. I would\_not recommend it for a full-time estimating team that actually wants control over their own process (at least at this time.) \n\nWhen you send out a bid invite in Downtobid, the app walks you through a series of steps: upload plans, set up bid packages, pick subs, and send emails. I’ll walk through my experience roughly in that order.\n\n# Onboarding & setup – “concierge” that feels over-controlled\n\nThere’s no “just sign up and start” button.\n\nYou have to email them and schedule a call/meeting. Then they do a kind of “concierge” onboarding:\n\n* They upload your plans for you the\_**first time**, instead of just letting you drag and drop.\n* They give you an Excel template to fill out with your subs, and they upload it for you instead of letting you import it yourself.\n\nPros:\n\n* The concierge person I dealt with was very pleasant and helpful.\n* If you’re completely new to this kind of software, being walked through might be reassuring.\n\nCons:\n\n* Instructions are just via call/Zoom. Nothing super clear written down in front of you when you’re actually trying to use it.\n* The CSI codes in their Excel sheet don’t match the CSI codes on their website. That’s a pretty basic thing to get wrong.\n* They run your emails through some validator before they’ll upload them. In my case, it flagged a bunch of “bad” emails that I was actively communicating with. False positives.\n* I then had to go back to the concierge, explain that these are real subs I talk to regularly, and have her override the system and upload them anyway.\n\nMy sub list is relatively small (under 1,000 contacts), so it all went “fine” in the sense that nothing outright broke. But the whole thing felt clunky and over-controlled. I’d genuinely rather just import my own list and manage my own data.\n\n# Overall feel – very “beta,” very training wheels\n\nThe homepage UI is extremely bare.\n\n* Positive: it’s not cluttered, so it’s easy enough to find the main steps.\n* Negative: it looks and feels like a beta site. Like something halfway done.\n\nThat “beta” feeling is a theme:\n\n* The whole app feels half-complete.\n* There’s this constant sense that they don’t trust the user to do anything on their own, so they lock everything down.\n* Training wheels are welded on, and you are not allowed to take them off.\n\nIf you’re looking to get your \"system\" set up, it's very frustrating to not have any customizability. \n\n# Step 1 – Upload project files\n\nThis is actually one of the better parts of the app.\n\nPositives:\n\n* Uploading is easy and pretty slick.\n* Nice clean separation of:\n   * Plans\n   * Specs\n   * Photos, etc.\n* The layout is super clean and makes it easy for subs to find what they need. I really do like how this part is laid out.\n\nAI features:\n\n* It scans the drawings and tries to:\n   * Figure out which trades are needed.\n   * Separate MEP vs architectural vs demo, etc.\n* In concept, this is great. This is the kind of thing I\_*want*\_a tool like this to do.\n\nExecution problems:\n\n* The accuracy is not there yet. For example:\n   * MEP demo drawings get thrown into a generic “demo” bucket instead of going under MEP where they actually belong.\n* The real issue is not even that it makes mistakes (AI will always make some mistakes), it’s that:\n   * It feels like you either fully use the AI sorting or you don’t use it at all.\n   * There’s no easy middle ground where you let it do a first pass and then just drag/drop to quickly fix the obvious stuff.\n* From what I could see, if the AI sorts things badly, you basically have to scrap that process instead of just correcting it.\n\nOverall: the concept and basic organization are strong, but they refuse to give me basic manual control. It feels very “beta,” and the lack of override is a big pain in the ass.\n\n# Step 2 – Setting up trade / bid packages\n\nThis is where you define what you’re actually sending out.\n\nHow it works:\n\n* The system suggests trade packages based on its scan of the drawings.\n* This gives you a jump-start list of what trades it thinks you need.\n\nIssues:\n\n* The trades are listed alphabetically instead of being organized by CSI.\n* That might sound minor, but to anyone who actually does construction for a living, this is a huge tell. CSI is how this work is actually organized in the real world.\n\nPositives:\n\n* You can add missing or custom sections if they didn’t think of something.\n* You can rename bid packages for a specific job.\n   * Example: inviting insulation subs but clearly labeling that it’s only for a small, specific scope within insulation.\n\nThat job-specific naming flexibility is genuinely a plus.\n\nOverall: good flexibility on naming and adding sections, but the lack of CSI-based organization is just wrong for real estimators. It’s backwards.\n\n# Step 3 – Selecting subcontractors\n\nNow you actually pick who gets what.\n\nStructure:\n\n* Subs are grouped by CSI (at least here).\n* There’s a “Smart Match” feature that merges:\n   * Your sub list\n   * Their sub database\n   * …and then auto-selects who to invite.\n\nIssues with Smart Match:\n\n* It pulls in a ton of irrelevant companies from their database.\n* By default it:\n   * Selects way too many half-relevant or totally irrelevant subs.\n   * Example: you want to invite door suppliers, and it auto-selects \\~50 “door” companies, many of which are just random outfits that say they can install a prehung in a bathroom, not actual commercial door/hardware suppliers.\n* You then have to manually uncheck like 40 out of 50. That’s just dumb UX.\n\nWhat I wish it did:\n\n* Proposed candidates and let me opt\_*in*.\n* “Here’s 50 possibilities; click to add the 10 you actually want,” instead of:\n* “We’ve auto-selected 50; spend 10 minutes unselecting all the junk.”\n\nTurning it off:\n\n* You\_*can*\_turn off Smart Match.\n* But once you do, you’re basically back to brute-force manual selection on everything.\n\nOverall: again, good idea, bad defaults, too much hand-holding, and way too much friction if you actually know what you’re doing.\n\n# Step 4 – Sending RFPs / emails\n\nThis is where the “we know best, you’re just along for the ride” design really shows.\n\nDefaults:\n\n* The app writes the invite email for you with variables like job name, status, etc.\n* Tbf, the default message isn’t horrible as a starting point.\n\nMajor limitations:\n\n* You cannot:\n   * Save your own templates.\n   * Set a default custom message.\n* Every single job, you start from their canned text.\n* The only workaround is:\n   * Keep your own RFP language in a Word/Google Doc.\n   * Copy and paste it in every time.\n* For a paid tool, that’s ridiculous.\n\nFollow-up emails:\n\n* You can have it send 1–2 follow-ups to people who didn’t open the email.\n* But you can’t:\n   * Truly customize those follow-up templates.\n   * Control in a granular way who gets them (e.g., send to everyone, not just unopened).\n\nThe system basically says: “We’ve decided what good follow-up looks like and you don’t get much say.”\n\nDeadline reminders:\n\n* There are “job is due soon” kind of reminder emails.\n* These are:\n   * Completely locked templates.\n   * Cartoonish/shitty looking.\n   * Only go to subs who opened the drawings.\n* You can’t change the template, you can’t change the logic. It just is what it is.\n\nSender address:\n\n* Emails show up as coming from\_`Your Name (via Downtobid)`\_instead of just your name / your domain.\n* That makes it look more like spam and also turns every invite you send into a tiny ad for them.\n* At $150/month, I don’t want to be their advertising channel. I want something that helps me run my process and represents my company properly.\n\nOverall: the communication side is extremely locked down. It treats experienced users like children who can’t be trusted to write their own emails or decide who to follow up with. It really annoys me off how much is hard-coded.\n\n# Pricing vs value\n\nPricing when I used it was about\_**$150/month**.\n\nAt that price point I expect:\n\n* More control and fewer training wheels.\n* The ability to:\n   * Use my own templates.\n   * Use my own sending identity.\n   * Override dumb defaults.\n\nInstead, you get a tool that wants to be a cookie-cutter “click-click-send” bid machine that doubles as advertising for itself.\n\n# Who I’d recommend it for (and who I wouldn’t)\n\nWould recommend:\n\n* Smaller GCs / shops that:\n   * Don’t have a full-time estimating department.\n   * Feel overwhelmed by the manual process.\n* Anyone who wants:\n   * A simple, visually clean interface.\n   * A very guided, hand-holding workflow for sending invites.\n\nWould not recommend:\n\n* Full-time estimators or established estimating departments.\n* Anyone who:\n   * Cares about control and customization.\n   * Wants to dial in their subcontractor list and communication.\n   * Thinks in CSI and lives in the details.\n\nFor those people, this will feel dumbed down, restrictive, and designed by folks who have never actually run a real bid day.\n\n# Final verdict & wish list\n\nBottom line:\n\n* The concept is very good.\n* The bones of the product are there.\n* But it’s executed in a way that’s overly simplified and locked down.\n\nIt feels like there’s a ton of potential that I’m not allowed to touch because they’ve bolted on so many guardrails. If they just opened it up and trusted experienced users a bit more, it could be a great tool.\n\nMy wish list:\n\n* Real manual overrides everywhere:\n   * Drawing sorting\n   * Smart Match results\n   * Email recipients and templates\n* Proper CSI-based organization throughout.\n* Smart Match that defaults to opt-in, not “select everyone and make me clean it up.”\n* Ability to send from my own domain, with my own branding.\n* A real template system for RFPs, follow-ups, and reminders.\n\nFinal, if anyone from ZZTakeoff\_ever reads this: I’d love to see you buy/build something in this space and push it to its full potential."
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1ojn3px
+  title: From laborer, to operator, to supervisor, and finally earthworks estimator. I need guidance.
+  subreddit: r/estimators
+  author: Appropriate_Cut_3915
+  score: 8
+  comments: 12
+  url: https://www.reddit.com/r/estimators/comments/1ojn3px/from_laborer_to_operator_to_supervisor_and/
+  created_utc: 1761788532
+  selftext: >2-
+       I have over 12 years of experience in the field of pipefitting and earth moving. I'm also in charge of inventory management and land surveying. I work for a small, up and coming, family owned business. I've been a supervisor, overseeing land development for around 5 years. I handle small to large-scale projects, everything between clearing the trees to prepping for asphalt. 
+       This winter, I begin my new position as the company's estimator, on top of retaining my supervisor position on larger jobs. I have close to zero experience with this part of the business. However, much of the decision-making has been left up to me. I am not family, but I have become a very trusted employee, as such, I want to do right by them and grow the business. My primary goal would be bidding on subdivisions, 25-50 lot phases, dirt work, and utilities. 
+       I'm very excited and pumped to be in the office but have several questions. Any advice you have to offer is very welcomed. 
+
+    1. I'll be retaining my hourly rate for the time being, with an added commission. What should be my ballpark
+    percentage? Bid value vs. profit percentage?
+
+
+    2. I want to eventually implement "profit sharing" in the form of bonuses to incentivise the crews working my jobs.
+    Would this be something I should even concern myself with, and do you have thoughts on how I should go about it?
+
+
+    3. What applications do you recommend? I've heard a lot about Agtek and Bluebeam. I'm okay with using multiple
+    applications if it simplifies the takeoff for utilities and dirt work, but I don't want to overwhelm myself either.
+
+
+    4. How friendly is the bidding environment? I have a lot of connections in the field, but I'm hesitant to reach out
+    to "competitors" for advice on takeoffs. Primarily the local resources they use to find and secure bids.
+
+
+    5. I want to contact my suppliers to get monthly product price updates for faster takeoffs on smaller jobs. On
+    larger scale jobs, I intend to give them the plans for a material estimate for myself to cross reference. Is this
+    something I should be doing? Is there a better way?
+
+
+    6. Should I start slow to get my feet off the ground, with smaller scale bids, single plots? Or jump straight into
+    what I know best from the field, multi house subdivision work?
+
+
+    6. Am I going to be okay? I'm very confident but have very little experience with spreadsheets and Excel. It's been
+    years since I had the need for it. 
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1jtyeuq
+  title: New to General Contracting how do you guys bid jobs?
+  subreddit: r/estimators
+  author: meow4mekitty
+  score: 8
+  comments: 31
+  url: https://www.reddit.com/r/estimators/comments/1jtyeuq/new_to_general_contracting_how_do_you_guys_bid/
+  created_utc: 1744065462
+  selftext: >-
+    I’m trying to get a handle on creating really detailed estimates for big projects and could use some advice. How do
+    you make sure you’re including everything in your bids, like every last nail, the taxes, and making sure there’s
+    profit at the end? It’s just so overwhelming when there’s lots of trades involved, but you also have to be
+    accountable for the material. What if I forget some sort of expensive material to add in when I give a bid and it
+    starts eating at my profit as the project goes on. I also don’t want to be the kind of contractor that says a price
+    and starts changing his number as a project advances. Is there any kind of tool or software that’s available to use?
+
+    Thank you for any insight !!
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1f604v1
+  title: Four years Estimating for subcontractors and unsure if I'm facing career burnout. Looking for advice/input
+  subreddit: r/estimators
+  author: No-Molasses1580
+  score: 14
+  comments: 24
+  url: https://www.reddit.com/r/estimators/comments/1f604v1/four_years_estimating_for_subcontractors_and/
+  created_utc: 1725145670
+  selftext: >-
+    I've found this sub-reddit to be a great community for receiving and sharing advice in the past and feel many of you
+    would have enough experience and input to help out. It's hard to condense this or give it a 'TL;DR,' so I appreciate
+    anyone willing to read through this and give advice. 
+
+
+    I've been estimating for almost four years; after being a labourer for four to five years prior. After two years in
+    estimating I moved companies as I wanted to maintain having a Sr. Estimator and found myself solo after six weeks.
+    The company I'm at has severely lacked experience in the ownership and upper management, leading to poor decision
+    making, impulsive/inexperienced calls, and frustrating remarks. Turnover is high in the most critical positions. We
+    have been a burden on multiple projects. We have lost other subs I was dependent on for bidding, to the point I no
+    longer have a great non-union outfit willing to work with us for field labor - with the exception of someone who
+    also fabricated so they are my direct competition too (frustratingly difficult bind to be in). I've stuck it out the
+    best I've been able to, but recently hit serious burnout. Never felt like this with any job. I come in and just
+    don't want to be there. I want to call in to avoid it. I've had jobs where I didn't want to be there, but it has
+    never been enough for me to want to call out due to shear frustration and unwillingness to do my job. Constant calls
+    are made with little to no understanding of what actually goes into some of these positions. New people keep getting
+    hired in other positions and trying to help as I'm a newer estimator, but it's just led to more confusion as
+    everyone sees things differently; in many cases having no direct understanding of estimating or feel for market
+    pricing. This past month I've been at the point where I've made a few stupid mistakes and I think the root of it is
+    a combination of apathy and being overwhelmed .... Which I HATE to say because I've always been super dedicated to
+    giving my all in my jobs and meeting/exceeding expectations. 
+
+
+    Has anyone else experienced this? Is this normal for someone to experience sometime(s) in their career or is this a
+    sign it's time to move on (either new company or a new career)?
+
+
+    Thanks in advance to anyone willing to give input! This has been weighing heavily on me
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+- id: 1in3ie9
+  title: Outsourcing Estimating for a Fabrication Shop
+  subreddit: r/estimators
+  author: Capital_Arachnid_705
+  score: 11
+  comments: 12
+  url: https://www.reddit.com/r/estimators/comments/1in3ie9/outsourcing_estimating_for_a_fabrication_shop/
+  created_utc: 1739293590
+  selftext: >-
+    Hey everyone,
+
+
+    I run Jstarr Fabrication, a growing metal fabrication shop in Atlanta GA, and as we scale up, I’m looking into ways
+    to streamline our estimating process. Right now, I handle a lot of the estimates myself, but as more work comes in,
+    I’m finding it harder to keep up while also managing shop operations.
+
+
+    I’m curious—how do you all handle estimating for your projects? Do you keep it all in-house, or do you outsource
+    some of it? I’ve been considering working with an estimator to take care of the initial takeoffs, material costs,
+    and bid drafts, so I can just fine-tune labor, shop time, and margins. If you outsource, who have you had success
+    with? Do you use independent estimators or specific software?
+
+
+    I know some people are big on keeping everything in-house, but with how fast things are moving, I want to make sure
+    we’re staying efficient without overloading the team. If you’ve found a way to balance cost, accuracy, and
+    turnaround time, I’d love to hear what’s worked for you!
+
+
+    Appreciate any advice—thanks in advance!
+  post_hint: ''
+  url_overridden_by_dest: ''
+  preview_image_url: ''
+  gallery_urls: []
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

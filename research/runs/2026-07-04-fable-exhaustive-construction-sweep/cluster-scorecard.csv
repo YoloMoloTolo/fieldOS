@@ -1,0 +1,31 @@
+cluster_id,cluster_name,specificity_10,frequency_10,severity_15,workaround_spend_15,buyer_clarity_10,operator_clarity_10,wedge_sharpness_10,competition_gap_10,timing_10,founder_advantage_10,legal_platform_risk_neg20,false_positive_risk_neg20,total_score,confidence_0to1,notes
+C12,Estimating capacity bottleneck + outsourcing market,9,7,10,15,9,9,8,5,9,8,-2,-4,83,0.55,"Paid substitutes already exist (offshore, $50/mo tools); AI-takeoff startups crowding; Eric estimates daily in own firms"
+C09,Young/small-sub working capital wall,9,8,14,14,8,9,7,5,7,6,-4,-4,79,0.6,Factoring 10-20% of receipts quoted; banks refuse <2yr; Billd/Mobilization incumbent; fintech regulatory lift
+C22,Owner-operator admin overload & exit pressure,8,7,11,12,9,9,6,6,8,10,-2,-6,78,0.45,Eric IS the buyer; reddit-only coverage so far (FB groups unavailable this run); complaint-vs-budget risk
+C02,Slow pay & pay-when-paid chains,9,9,13,12,8,8,6,4,6,8,-3,-5,75,0.7,Best source-family coverage (4+); Levelset/Procore own notices; quality-dispute entanglement inflates apparent pain
+C08,Punch-list margin erosion & damage attribution,9,6,11,9,7,8,8,4,6,9,-2,-5,70,0.5,CompanyCam is a strong incumbent; process-not-product disconfirmer; trim/finish = Eric's trade
+C10,Cash-crunch timing collisions (visibility),6,7,12,8,7,6,5,5,7,8,-2,-6,63,0.4,Vendor-content heavy; fractional CFO/bookkeeper substitutes; merge candidate with C09
+C18,Labor shortage schedule delays (macro),7,9,12,10,6,6,3,4,9,4,-3,-4,63,0.7,92%/45% AGC stats solid; macro condition not wedge; feeds timing of others
+C07,Underbid-then-recover pricing culture,9,8,12,6,5,5,5,7,6,7,-3,-5,62,0.55,Cross-market (US+CN) pattern; one-shot buyer economics kill most product forms
+C01,Retainage float & release opacity,8,6,10,8,7,7,6,5,6,7,-4,-5,61,0.5,Subset of C02/C09 mechanics; high-margin subs shrug (disconfirmed at top end)
+C11,Bid-window compression & ITB relay lag,8,6,8,4,7,8,7,6,8,7,-2,-7,60,0.35,"Fresh 2026 trend claim, single thread; zero workaround spend observed; veteran disputes trend"
+C16,Investor draw-schedule discipline failures,8,7,11,7,6,6,7,6,5,6,-4,-6,59,0.5,Self-inflicted + novice-only churn segment; archived-B2 kill-shots partially apply
+C05,CO pricing distrust GC-sub,8,6,9,5,7,7,6,6,5,6,-2,-6,57,0.45,Public-works rate caps solve contractually; benchmark data moat hard to bootstrap
+C14,PM-vendor payment dysfunction,8,6,9,7,6,7,6,5,5,6,-2,-7,56,0.5,Two-sided observation is strong; but payer behavior is the product's enemy; Lula/NetVendor exist
+C04,Homeowner deposit loss & abandonment,9,8,12,8,4,5,5,6,5,5,-6,-6,55,0.6,"High frequency, awful buyer economics (one-shot, post-hoc); regulated escrow territory"
+C03,Lien/notice-rights complexity,8,7,11,9,6,6,5,2,4,5,-5,-4,54,0.6,Category consolidated (Levelset->Procore); TN consumer statutes restrict (product/legal.md)
+C21,Incumbent software lock-in & price escalation,5,7,8,10,7,7,4,3,7,5,-2,-8,53,0.3,All C-grade/secondary; JobTread already feasting; first-party review sites blocked this run
+C06,Field CO capture & enforceability,7,5,8,4,6,7,7,5,5,8,-2,-7,53,0.4,Archived lead A territory — do NOT revive on this evidence alone (2 B-grade records)
+C20,Quality-payment dispute entanglement,8,6,10,6,4,5,4,6,5,7,-3,-5,53,0.5,Analytic cluster: disconfirms pure-payment theses; standalone wedge unclear
+C15,Small-repair vendor gap (PM),7,5,8,8,6,6,6,4,5,5,-2,-6,52,0.45,Same coin as C14; incumbents cover
+C24,Prevailing-wage/certified-payroll compliance,6,4,9,6,6,6,6,4,7,4,-4,-4,50,0.35,1 record; public-works niche; LCPtracker incumbent
+C17,First-flip scope/ARV misjudgment,8,6,10,6,5,5,5,3,5,6,-3,-7,49,0.45,Archived B2 kill-shots stand (PropStream/FlipperForce/Kiavi); not revived
+C23,Trades FSM misfit small-shop tier,5,5,6,8,7,7,4,3,5,5,-2,-7,46,0.3,Jobber/HCP tier exists; title-level evidence only
+C19,1099 labor-structure traps,8,5,10,4,3,5,4,5,6,5,-6,-5,44,0.4,No budgeted buyer; enforcement-side only
+C26,Homeowner schedule opacity/anxiety,6,6,7,3,4,5,5,5,5,6,-2,-6,44,0.4,Under-collected; one-shot buyer
+C27,Architect CA fee/effort mismatch,4,4,6,4,5,6,5,5,4,3,-2,-6,38,0.25,Title-level only; collect before judging
+C30,PM-role coordination overload,4,6,6,5,5,5,2,3,5,4,-2,-5,38,0.35,Feeds C11/C18
+C13,Bid transparency battle,6,5,7,3,3,4,3,5,4,6,-2,-6,38,0.4,"Interview probe inside C07, not standalone"
+C28,PE rollup of service trades (timing current),4,5,6,3,4,4,2,3,8,4,-3,-5,35,0.35,"Context current, not a wedge"
+C29,CN arrears cross-market benchmark,6,6,12,3,2,3,1,2,5,2,-8,-4,30,0.5,Benchmark only; no US wedge; do not pursue
+C25,Roofing insurance-claim fights,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,UNSCORED — raw titles only; collect next run (supplement/Xactimate vein)

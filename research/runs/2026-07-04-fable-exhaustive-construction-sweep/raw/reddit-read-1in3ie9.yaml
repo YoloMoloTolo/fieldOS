@@ -1,0 +1,148 @@
+- author: Capital_Arachnid_705
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 12
+  text: >-
+    Outsourcing Estimating for a Fabrication Shop
+
+
+    Hey everyone,
+
+
+    I run Jstarr Fabrication, a growing metal fabrication shop in Atlanta GA, and as we scale up, I’m looking into ways
+    to streamline our estimating process. Right now, I handle a lot of the estimates myself, but as more work comes in,
+    I’m finding it harder to keep up while also managing shop operations.
+
+
+    I’m curious—how do you all handle estimating for your projects? Do you keep it all in-house, or do you
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: Hitou
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    I'm also with a metal fab shop and all of our estimating stays in house. We run a total of 4 Estimators/Project
+    Managers in the sheet metal office to keep up with everything with one of those also being our boss and shop
+    manager.
+
+
+    Have you considered delegating some of your shop operation responsibilities? Or would hiring a junior estimator or
+    intern be an option? Even though my boss is the shop manager we still have...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: Salt-Wafer-8259
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    I always do my estimations by myself… but now I have a family so sometimes ive to consider outsourcing it.. like
+    once or twice a month… But still doing it yourself is recommended.. but if you want to outsource it i can share a
+    contact PM me
+  type: L0
+  url_overridden_by_dest: ''
+- author: UnitedSheepherder391
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: All of my company’s are done by our estimating team. Most of us are in house, although we also have a group in India
+  type: L0
+  url_overridden_by_dest: ''
+- author: Any_Specialist_4026
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: In house with good quoting software
+  type: L0
+  url_overridden_by_dest: ''
+- author: mas7erblas7er
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: It's 100% outsourced, and it's been so great that we've never looked back. Your results may vary.
+  type: L0
+  url_overridden_by_dest: ''
+- author: analiza0906
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    outsource initial estimates, cheaper than getting inhouse staff.
+
+
+
+    For example, I am an HVAC estimator/mechanical Engineer located in the Philippines. I help my clients do the initial
+    estimates, prepare initial proposal, send rfq to the suppliers. Then they just check my work and tune the pricing
+    then they submit the proposal. 
+
+
+    Our workflow is that we have one drive account that has all the projects with date of sub...
+  type: L0
+  url_overridden_by_dest: ''
+- author: Antique_Campaign8228
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    Steel fabricator as in structural and misc. for the construction industry? Someone above mentioned sheet metal which
+    is why I am clarifying…
+
+
+    How do you do your takeoff now? If you’re not using bluebeam revu I would recommend that. That’s going to be the
+    best value imo. 
+
+
+    It’s not uncommon to hire detailers to create “estimodels” but it usually costs more than a conventional take off.
+    One big benefit to this is getti...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: brocaflocka
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 0
+  text: I may have a few tools/templates that can help, shoot me a PM if you'd like to discuss?
+  type: L0
+  url_overridden_by_dest: ''
+- author: Key_Read1738
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: -3
+  text: zzTakeoff is the wway to go. Can't be beat at $50 a month for takoff and estimating.
+  type: L0
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

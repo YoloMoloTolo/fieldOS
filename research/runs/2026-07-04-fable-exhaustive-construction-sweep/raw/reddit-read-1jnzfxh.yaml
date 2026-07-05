@@ -1,0 +1,106 @@
+- author: TomSmots
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    How to find vendors to do basic maintenance?
+
+
+    We currently do most of our work in house and sub out some of the bigger stuff but I know a lot of companies sub out
+    all maintiance work. Finding someone for the plumbing, electrical, hvac is pretty easy who do you call for the
+    broken cabinet door, mirror needs replaced the basic quick little jobs? The only people I can ever find for those is
+    someone just starting their own business and they either end up flaking out
+
+    ... [truncated]
+  type: POST
+  url_overridden_by_dest: ''
+- author: Lee_con
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 3
+  text: >-
+    I'd find some good local ones to build up a rolodex. And then, keep one of the marketplace style vendors as a backup
+    like Thumbtack or similar
+  type: L0
+  url_overridden_by_dest: ''
+- author: PaintAfter
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    Also could consider temp workers through an agency on days you need the support. Cyclethrough the bad ones with
+    clear communication to agency and could get some decent workers. Typical rate is double the avg tech but can be used
+    excljsively on. Day by day or per project basis
+  type: L0
+  url_overridden_by_dest: ''
+- author: Informal-Peace-2053
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 2
+  text: >-
+    I do work for several landlords, just the kind of stuff you are looking for, however I don't work for PM companies
+    because you all suck ass, are slow payers, want everything fixed with a bandaid and everything is a emergency.
+
+
+    Just had a PM contact me yesterday who tried telling me that I would have to do the work required on Thursday
+    between 10 and 1, and since it was such a "easy" repair that they were willing to p...
+  type: L0
+  url_overridden_by_dest: ''
+- author: ''
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: ''
+  text: '  [+1 more replies]'
+  type: L1
+  url_overridden_by_dest: ''
+- author: BondsIsKing
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    I would contact a vender that you get along with or give work to, the property managers I work with will ask me if I
+    know someone that can do this or that then I connect them. If you have a plumber or electrician they should
+    definitely know a guy who can fix a cabinet. Most construction venders have a group of companies they work with now
+    and then.
+  type: L0
+  url_overridden_by_dest: ''
+- author: PaintAfter
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: >-
+    General handymen services is your option for this. About the price/experience of a home depot guy but flat rates at
+    least and the insurance
+  type: L0
+  url_overridden_by_dest: ''
+- author: SonicOrbStudios
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: NetVendor
+  type: L0
+  url_overridden_by_dest: ''
+- author: Mugz5603
+  gallery_urls: []
+  post_hint: ''
+  preview_image_url: ''
+  score: 1
+  text: Your in house doesn’t handle the minor repairs?
+  type: L0
+  url_overridden_by_dest: ''
+
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+

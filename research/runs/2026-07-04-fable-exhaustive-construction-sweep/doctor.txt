@@ -1,0 +1,48 @@
+=== opencli doctor (2026-07-04) ===
+opencli v1.8.5 doctor (node v26.4.0)
+
+[OK] Daemon: running on port 19825 (v1.8.5)
+[OK] Extension: connected (v1.0.21) → v1.0.22 available
+
+Profiles:
+  • tb7twbu4 (research): connected v1.0.21, default
+[OK] Connectivity: connected in 0.2s
+
+Issues:
+  • Extension update available: v1.0.21 → v1.0.22
+  Download from: https://github.com/jackwener/opencli/releases
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+
+
+=== opencli profile list ===
+Connected Browser Bridge profiles
+
+  tb7twbu4 research default — connected v1.0.21
+
+  Update available: v1.8.5 → v1.8.6
+  Run: npm install -g @jackwener/opencli
+
+  Extension update available: v1.0.21 → v1.0.22
+  Download: https://github.com/jackwener/opencli/releases
+
+
+=== mcporter config list ===
+(node:19993) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+linkedin
+  Source: local (/Users/ericlicona/fieldos-brain/config/mcporter.json)
+  Transport: http (http://127.0.0.1:8000/mcp)
+
+Other sources available via --source import
+  /Users/ericlicona/.codex/config.toml — 1 server (node_repl)
+Use `mcporter config import <kind>` to copy them locally.
+
+Project config: /Users/ericlicona/fieldos-brain/config/mcporter.json
+System config: /Users/ericlicona/.mcporter/mcporter.json (missing)
+
+=== LinkedIn: INTENTIONALLY SKIPPED per Eric's instruction for this run — no mcporter probes run, linkedin-scraper-mcp not required ===
